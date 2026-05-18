@@ -1,0 +1,273 @@
+﻿name,cmc,oracle_text,power,toughness,keywords,set,set_name,points
+Whisper Squad,1,"{1}{B}: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle.",1,1,[],iko,Ikoria: Lair of Behemoths,4
+Blisterspit Gremlin,1,"{1}, {T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.",1,1,[],iko,Ikoria: Lair of Behemoths,6
+Serrated Scorpion,1,"When this creature dies, it deals 2 damage to each opponent and you gain 2 life.",1,2,[],iko,Ikoria: Lair of Behemoths,6
+Zagoth Mamba,1,"Whenever this creature mutates, target creature an opponent controls gets -2/-2 until end of turn.",1,1,[],iko,Ikoria: Lair of Behemoths,4
+Mysterious Egg,1,"Whenever this creature mutates, put a +1/+1 counter on it.",0,2,[],iko,Ikoria: Lair of Behemoths,4
+Ivy Elemental,1,This creature enters with X +1/+1 counters on it.,0,0,[],iko,Ikoria: Lair of Behemoths,2
+Almighty Brushwagg,1,"Trample
+{3}{G}: This creature gets +3/+3 until end of turn.",1,1,['Trample'],iko,Ikoria: Lair of Behemoths,4
+Flourishing Fox,1,"Whenever you cycle another card, put a +1/+1 counter on this creature.
+Cycling {1} ({1}, Discard this card: Draw a card.)",1,1,['Cycling'],iko,Ikoria: Lair of Behemoths,5
+Garrison Cat,1,"When this creature dies, create a 1/1 white Human Soldier creature token.",1,1,[],iko,Ikoria: Lair of Behemoths,5
+Aegis Turtle,1,,0,5,[],iko,Ikoria: Lair of Behemoths,5
+"Kinnan, Bonder Prodigy",2,"Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.
+{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",2,2,[],iko,Ikoria: Lair of Behemoths,8
+Maned Serval,2,Vigilance,1,4,['Vigilance'],iko,Ikoria: Lair of Behemoths,6
+Skull Prophet,2,"{T}: Add {B} or {G}.
+{T}: Mill two cards. (Put the top two cards of your library into your graveyard.)",3,1,['Mill'],iko,Ikoria: Lair of Behemoths,6
+Checkpoint Officer,2,"{1}{W}, {T}: Tap target creature.",1,2,[],iko,Ikoria: Lair of Behemoths,4
+"Chevill, Bane of Monsters",2,"Deathtouch
+At the beginning of your upkeep, if your opponents control no permanents with bounty counters on them, put a bounty counter on target creature or planeswalker an opponent controls.
+Whenever a permanent an opponent controls with a bounty counter on it dies, you gain 3 life and draw a card.",1,3,['Deathtouch'],iko,Ikoria: Lair of Behemoths,9
+Sprite Dragon,2,"Flying, haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",1,1,"['Flying', 'Haste']",iko,Ikoria: Lair of Behemoths,7
+Savai Thundermane,2,"Whenever you cycle a card, you may pay {2}. When you do, this creature deals 2 damage to target creature and you gain 2 life.",3,2,[],iko,Ikoria: Lair of Behemoths,6
+Pollywog Symbiote,2,"Each creature spell you cast costs {1} less to cast if it has mutate.
+Whenever you cast a creature spell, if it has mutate, draw a card, then discard a card.",1,3,[],iko,Ikoria: Lair of Behemoths,7
+Essence Symbiote,2,"Whenever a creature you control mutates, put a +1/+1 counter on that creature and you gain 2 life.",2,2,[],iko,Ikoria: Lair of Behemoths,6
+Humble Naturalist,2,{T}: Add one mana of any color. Spend this mana only to cast a creature spell.,1,3,[],iko,Ikoria: Lair of Behemoths,6
+Regal Leosaur,2,"Mutate {1}{R/W}{R/W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +2/+1 until end of turn.",2,2,['Mutate'],iko,Ikoria: Lair of Behemoths,6
+Drannith Magistrate,2,Your opponents can't cast spells from anywhere other than their hands.,1,3,[],iko,Ikoria: Lair of Behemoths,6
+Durable Coilbug,2,{4}{B}: Return this card from your graveyard to your hand.,2,2,[],iko,Ikoria: Lair of Behemoths,6
+Valiant Rescuer,2,"Whenever you cycle another card for the first time each turn, create a 1/1 white Human Soldier creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)",3,1,['Cycling'],iko,Ikoria: Lair of Behemoths,8
+Drannith Stinger,2,"Whenever you cycle another card, this creature deals 1 damage to each opponent.
+Cycling {1} ({1}, Discard this card: Draw a card.)",2,2,['Cycling'],iko,Ikoria: Lair of Behemoths,8
+Fiend Artisan,2,"This creature gets +1/+1 for each creature card in your graveyard.
+{X}{B/G}, {T}, Sacrifice another creature: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.",1,1,[],iko,Ikoria: Lair of Behemoths,6
+Boot Nipper,2,This creature enters with your choice of a deathtouch counter or a lifelink counter on it.,2,1,[],iko,Ikoria: Lair of Behemoths,6
+Labyrinth Raptor,2,"Menace
+Whenever a creature you control with menace becomes blocked, defending player sacrifices a creature of their choice that's blocking it.
+{B}{R}: Creatures you control with menace get +1/+0 until end of turn.",2,2,['Menace'],iko,Ikoria: Lair of Behemoths,9
+Facet Reader,2,"{1}, {T}: Draw a card, then discard a card.",1,2,[],iko,Ikoria: Lair of Behemoths,4
+Cunning Nightbonder,2,"Flash
+Spells with flash you cast cost {1} less to cast and can't be countered.",2,2,['Flash'],iko,Ikoria: Lair of Behemoths,7
+Skycat Sovereign,2,"Flying
+This creature gets +1/+1 for each other creature you control with flying.
+{2}{W}{U}: Create a 1/1 white Cat Bird creature token with flying.",1,1,['Flying'],iko,Ikoria: Lair of Behemoths,7
+Glimmerbell,2,"Flying
+{1}{U}: Untap this creature.",1,3,['Flying'],iko,Ikoria: Lair of Behemoths,6
+General's Enforcer,2,"Legendary Humans you control have indestructible.
+{2}{W}{B}: Exile target card from a graveyard. If it was a creature card, create a 1/1 white Human Soldier creature token.",2,3,[],iko,Ikoria: Lair of Behemoths,10
+Drannith Healer,2,"Whenever you cycle another card, you gain 1 life.
+Cycling {1} ({1}, Discard this card: Draw a card.)",2,2,['Cycling'],iko,Ikoria: Lair of Behemoths,6
+Savai Sabertooth,2,,3,1,[],iko,Ikoria: Lair of Behemoths,4
+Jubilant Skybonder,3,"Flying
+Creatures you control with flying have ""Spells your opponents cast that target this creature cost {2} more to cast.""",2,2,['Flying'],iko,Ikoria: Lair of Behemoths,7
+Hunted Nightmare,3,"Menace
+When this creature enters, target opponent puts a deathtouch counter on a creature they control.",4,5,['Menace'],iko,Ikoria: Lair of Behemoths,11
+Snare Tactician,3,"Whenever you cycle a card, tap target creature an opponent controls.",2,3,[],iko,Ikoria: Lair of Behemoths,6
+"Rielle, the Everwise",3,"Rielle gets +1/+0 for each instant and sorcery card in your graveyard.
+Whenever you discard one or more cards for the first time each turn, draw that many cards.",0,3,[],iko,Ikoria: Lair of Behemoths,6
+"Vadrok, Apex of Thunder",3,"Mutate {1}{W/U}{R}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, first strike
+Whenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.",3,3,"['Flying', 'Mutate', 'First strike']",iko,Ikoria: Lair of Behemoths,11
+Wingspan Mentor,3,"When this creature enters, put a flying counter on target non-Human creature you control.
+{2}{U}, {T}: Put a +1/+1 counter on each creature you control with flying.",1,3,[],iko,Ikoria: Lair of Behemoths,8
+Nightsquad Commando,3,"When this creature enters, if you attacked this turn, create a 1/1 white Human Soldier creature token.",2,3,[],iko,Ikoria: Lair of Behemoths,8
+Phase Dolphin,3,"Whenever this creature attacks, another target attacking creature can't be blocked this turn.",1,4,[],iko,Ikoria: Lair of Behemoths,6
+Trumpeting Gnarr,3,"Mutate {3}{G/U}{G/U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, create a 3/3 green Beast creature token.",3,3,['Mutate'],iko,Ikoria: Lair of Behemoths,14
+Lore Drakkis,3,"Mutate {U/R}{U/R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target instant or sorcery card from your graveyard to your hand.",2,3,['Mutate'],iko,Ikoria: Lair of Behemoths,8
+Grimdancer,3,"This creature enters with your choice of two different counters on it from among menace, deathtouch, and lifelink.",3,3,['Deathtouch'],iko,Ikoria: Lair of Behemoths,10
+Frenzied Raptor,3,,4,2,[],iko,Ikoria: Lair of Behemoths,7
+Glowstone Recluse,3,"Mutate {3}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, put two +1/+1 counters on it.",2,3,"['Reach', 'Mutate']",iko,Ikoria: Lair of Behemoths,9
+Sonorous Howlbonder,3,"Menace
+Each creature you control with menace can't be blocked except by three or more creatures.",2,2,['Menace'],iko,Ikoria: Lair of Behemoths,7
+Excavation Mole,3,"Trample
+When this creature enters, mill three cards.",3,3,"['Trample', 'Mill']",iko,Ikoria: Lair of Behemoths,8
+Lavabrink Venturer,3,"As this creature enters, choose odd or even. (Zero is even.)
+This creature has protection from each mana value of the chosen quality.",3,3,[],iko,Ikoria: Lair of Behemoths,10
+Necropanther,3,"Mutate {2}{W/B}{W/B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target creature card with mana value 3 or less from your graveyard to the battlefield.",3,3,['Mutate'],iko,Ikoria: Lair of Behemoths,9
+Lurrus of the Dream-Den,3,"Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Lifelink
+Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.",3,2,"['Lifelink', 'Companion']",iko,Ikoria: Lair of Behemoths,10
+Farfinder,3,"Vigilance
+When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",1,1,['Vigilance'],iko,Ikoria: Lair of Behemoths,5
+Splendor Mare,3,"Lifelink
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle this card, put a lifelink counter on target creature you control.",3,3,"['Lifelink', 'Cycling']",iko,Ikoria: Lair of Behemoths,9
+Gloom Pangolin,3,,1,5,[],iko,Ikoria: Lair of Behemoths,6
+General Kudro of Drannith,3,"Other Humans you control get +1/+1.
+Whenever General Kudro or another Human you control enters, exile target card from an opponent's graveyard.
+{2}, Sacrifice two Humans: Destroy target creature with power 4 or greater.",3,3,[],iko,Ikoria: Lair of Behemoths,12
+Stormwild Capridor,3,"Flying
+If noncombat damage would be dealt to this creature, prevent that damage. Put a +1/+1 counter on this creature for each 1 damage prevented this way.",1,3,['Flying'],iko,Ikoria: Lair of Behemoths,7
+Perimeter Sergeant,3,"Whenever this creature attacks, other Humans you control get +1/+0 until end of turn.",3,2,[],iko,Ikoria: Lair of Behemoths,8
+Frillscare Mentor,3,"When this creature enters, put a menace counter on target non-Human creature you control. (It can't be blocked except by two or more creatures.)
+{2}{R}, {T}: Put a +1/+1 counter on each creature you control with menace.",3,2,[],iko,Ikoria: Lair of Behemoths,9
+Crystalline Giant,3,"At the beginning of combat on your turn, choose a kind of counter at random that this creature doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature.",3,3,[],iko,Ikoria: Lair of Behemoths,8
+"Lutri, the Spellchaser",3,"Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Flash
+When Lutri enters, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy.",3,2,"['Companion', 'Flash']",iko,Ikoria: Lair of Behemoths,9
+Thieving Otter,3,"Whenever this creature deals damage to an opponent, draw a card.",2,2,[],iko,Ikoria: Lair of Behemoths,6
+"Zirda, the Dawnwaker",3,"Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{1}, {T}: Target creature can't block this turn.",3,3,['Companion'],iko,Ikoria: Lair of Behemoths,10
+Slitherwisp,3,"Flash
+Whenever you cast another spell that has flash, you draw a card and each opponent loses 1 life.",3,2,['Flash'],iko,Ikoria: Lair of Behemoths,10
+Keensight Mentor,3,"When this creature enters, put a vigilance counter on target non-Human creature you control.
+{1}{W}, {T}: Put a +1/+1 counter on each creature you control with vigilance.",1,4,[],iko,Ikoria: Lair of Behemoths,9
+Sea-Dasher Octopus,3,"Mutate {1}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature deals combat damage to a player, draw a card.",2,2,"['Mutate', 'Flash']",iko,Ikoria: Lair of Behemoths,8
+Prickly Marmoset,3,"First strike
+Whenever you cycle a card, this creature gets +2/+0 until end of turn.",2,3,['First strike'],iko,Ikoria: Lair of Behemoths,7
+Spelleater Wolverine,3,This creature has double strike as long as there are three or more instant and/or sorcery cards in your graveyard.,3,2,[],iko,Ikoria: Lair of Behemoths,6
+Helica Glider,3,This creature enters with your choice of a flying counter or a first strike counter on it.,2,2,[],iko,Ikoria: Lair of Behemoths,6
+Fertilid,3,"This creature enters with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from this creature: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.",0,0,[],iko,Ikoria: Lair of Behemoths,4
+"Kaheera, the Orphanguard",3,"Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Vigilance
+Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or Beast gets +1/+1 and has vigilance.",3,2,"['Vigilance', 'Companion']",iko,Ikoria: Lair of Behemoths,9
+Alert Heedbonder,3,"Vigilance
+At the beginning of your end step, you gain 1 life for each creature you control with vigilance.",2,4,['Vigilance'],iko,Ikoria: Lair of Behemoths,8
+Mosscoat Goriak,3,Vigilance,2,4,['Vigilance'],iko,Ikoria: Lair of Behemoths,7
+Duskfang Mentor,3,"When this creature enters, put a lifelink counter on target non-Human creature you control.
+{1}{B}, {T}: Put a +1/+1 counter on each creature you control with lifelink.",1,3,[],iko,Ikoria: Lair of Behemoths,8
+Frost Lynx,3,"When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",2,2,[],iko,Ikoria: Lair of Behemoths,5
+Hornbash Mentor,3,"When this creature enters, put a trample counter on target non-Human creature you control.
+{2}{G}, {T}: Put a +1/+1 counter on each creature you control with trample.",3,3,[],iko,Ikoria: Lair of Behemoths,10
+Gemrazer,4,"Mutate {1}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach, trample
+Whenever this creature mutates, destroy target artifact or enchantment an opponent controls.",4,4,"['Reach', 'Mutate', 'Trample']",iko,Ikoria: Lair of Behemoths,14
+Vulpikeet,4,"Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, put a +1/+1 counter on it.",2,3,"['Flying', 'Mutate']",iko,Ikoria: Lair of Behemoths,9
+"Umori, the Collector",4,"Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+As Umori enters, choose a card type.
+Spells you cast of the chosen type cost {1} less to cast.",4,5,['Companion'],iko,Ikoria: Lair of Behemoths,13
+Bushmeat Poacher,4,"{1}, {T}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness. Draw a card.",2,4,[],iko,Ikoria: Lair of Behemoths,8
+Frondland Felidar,4,"Vigilance
+Creatures you control with vigilance have ""{1}, {T}: Tap target creature.""",3,5,['Vigilance'],iko,Ikoria: Lair of Behemoths,11
+Bristling Boar,4,This creature can't be blocked by more than one creature.,4,3,[],iko,Ikoria: Lair of Behemoths,9
+Cubwarden,4,"Mutate {2}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Lifelink
+Whenever this creature mutates, create two 1/1 white Cat creature tokens with lifelink.",3,5,"['Lifelink', 'Mutate']",iko,Ikoria: Lair of Behemoths,15
+Luminous Broodmoth,4,"Flying
+Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it.",3,4,['Flying'],iko,Ikoria: Lair of Behemoths,10
+Migratory Greathorn,4,"Mutate {2}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",3,4,['Mutate'],iko,Ikoria: Lair of Behemoths,10
+Huntmaster Liger,4,"Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated.",3,4,['Mutate'],iko,Ikoria: Lair of Behemoths,10
+Daysquad Marshal,4,"When this creature enters, create a 1/1 white Human Soldier creature token.",3,3,[],iko,Ikoria: Lair of Behemoths,9
+Everquill Phoenix,4,"Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, create a red artifact token named Feather with ""{1}, Sacrifice this token: Return target Phoenix card from your graveyard to the battlefield tapped.""",4,4,"['Flying', 'Mutate']",iko,Ikoria: Lair of Behemoths,13
+Crystacean,4,Flash (You may cast this spell any time you could cast an instant.),1,6,['Flash'],iko,Ikoria: Lair of Behemoths,8
+"Winota, Joiner of Forces",4,"Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.",4,4,[],iko,Ikoria: Lair of Behemoths,12
+Parcelbeast,4,"Mutate {G}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{1}, {T}: Look at the top card of your library. If it's a land card, you may put it onto the battlefield. If you don't put the card onto the battlefield, put it into your hand.",2,4,['Mutate'],iko,Ikoria: Lair of Behemoths,10
+Insatiable Hemophage,4,"Mutate {2}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch
+Whenever this creature mutates, each opponent loses X life and you gain X life, where X is the number of times this creature has mutated.",3,3,"['Mutate', 'Deathtouch']",iko,Ikoria: Lair of Behemoths,12
+Porcuparrot,4,"Mutate {2}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{T}: This creature deals X damage to any target, where X is the number of times this creature has mutated.",3,4,['Mutate'],iko,Ikoria: Lair of Behemoths,9
+Exuberant Wolfbear,4,"Whenever this creature attacks, you may change the base power and toughness of target Human you control to this creature's power and toughness until end of turn.",4,4,[],iko,Ikoria: Lair of Behemoths,10
+Avian Oddity,4,"Flying
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle this card, put a flying counter on target creature you control.",2,4,"['Flying', 'Cycling']",iko,Ikoria: Lair of Behemoths,9
+Proud Wildbonder,4,"Trample
+Creatures you control with trample have ""You may have this creature assign its combat damage as though it weren't blocked.""",4,3,['Trample'],iko,Ikoria: Lair of Behemoths,11
+Momentum Rumbler,4,"Whenever this creature attacks, if it doesn't have first strike, put a first strike counter on it.
+Whenever this creature attacks, if it has first strike, it gains double strike until end of turn.",3,3,[],iko,Ikoria: Lair of Behemoths,8
+Ferocious Tigorilla,4,This creature enters with your choice of a trample counter or a menace counter on it. (A creature with menace can't be blocked except by two or more creatures.),4,3,[],iko,Ikoria: Lair of Behemoths,10
+"Snapdax, Apex of the Hunt",4,"Mutate {2}{B/R}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Double strike
+Whenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.",3,5,"['Mutate', 'Double strike']",iko,Ikoria: Lair of Behemoths,12
+Lurking Deadeye,4,"Flash
+When this creature enters, destroy target creature that was dealt damage this turn.",4,2,['Flash'],iko,Ikoria: Lair of Behemoths,10
+Dirge Bat,4,"Mutate {4}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Flying
+Whenever this creature mutates, destroy target creature or planeswalker an opponent controls.",3,3,"['Flying', 'Mutate', 'Flash']",iko,Ikoria: Lair of Behemoths,11
+Pyroceratops,4,"Trample
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",2,3,['Trample'],iko,Ikoria: Lair of Behemoths,8
+Boneyard Lurker,4,"Mutate {2}{B/G}{B/G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target permanent card from your graveyard to your hand.",4,4,['Mutate'],iko,Ikoria: Lair of Behemoths,12
+Flycatcher Giraffid,5,This creature enters with your choice of a vigilance counter or a reach counter on it.,3,5,[],iko,Ikoria: Lair of Behemoths,10
+Voracious Greatshark,5,"Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, counter target artifact or creature spell.",5,4,['Flash'],iko,Ikoria: Lair of Behemoths,13
+"Keruga, the Macrosage",5,"Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+When Keruga enters, draw a card for each other permanent you control with mana value 3 or greater.",5,4,['Companion'],iko,Ikoria: Lair of Behemoths,14
+"Illuna, Apex of Wishes",5,"Mutate {3}{R/G}{U}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, trample
+Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand.",6,6,"['Flying', 'Mutate', 'Trample']",iko,Ikoria: Lair of Behemoths,19
+Cavern Whisperer,5,"Mutate {3}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever this creature mutates, each opponent discards a card.",4,4,"['Mutate', 'Menace']",iko,Ikoria: Lair of Behemoths,13
+"Obosh, the Preypiercer",5,"Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",3,5,['Companion'],iko,Ikoria: Lair of Behemoths,10
+Rooting Moloch,5,"When this creature enters, exile target card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card.
+Cycling {2} ({2}, Discard this card: Draw a card.)",4,4,['Cycling'],iko,Ikoria: Lair of Behemoths,12
+Patagia Tiger,5,"Flying
+When this creature enters, target Human you control gets +2/+2 until end of turn.",3,4,['Flying'],iko,Ikoria: Lair of Behemoths,9
+"Nethroi, Apex of Death",5,"Mutate {4}{G/W}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch, lifelink
+Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield.",5,5,"['Lifelink', 'Mutate', 'Deathtouch']",iko,Ikoria: Lair of Behemoths,18
+Auspicious Starrix,5,"Mutate {5}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, exile cards from the top of your library until you exile X permanent cards, where X is the number of times this creature has mutated. Put those permanent cards onto the battlefield.",6,6,['Mutate'],iko,Ikoria: Lair of Behemoths,17
+"Brokkos, Apex of Forever",5,"Mutate {2}{U/B}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Trample
+You may cast this card from your graveyard using its mutate ability.",6,6,"['Mutate', 'Trample']",iko,Ikoria: Lair of Behemoths,17
+Quartzwood Crasher,5,"Trample
+Whenever one or more creatures you control with trample deal combat damage to a player, create an X/X green Dinosaur Beast creature token with trample, where X is the amount of damage those creatures dealt to that player.",6,6,['Trample'],iko,Ikoria: Lair of Behemoths,17
+Majestic Auricorn,5,"Mutate {3}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Vigilance
+Whenever this creature mutates, you gain 4 life.",4,4,"['Mutate', 'Vigilance']",iko,Ikoria: Lair of Behemoths,12
+Adaptive Shimmerer,5,"Flash
+This creature enters with three +1/+1 counters on it.",0,0,['Flash'],iko,Ikoria: Lair of Behemoths,4
+Pouncing Shoreshark,5,"Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature mutates, you may return target creature an opponent controls to its owner's hand.",4,3,"['Mutate', 'Flash']",iko,Ikoria: Lair of Behemoths,12
+"Jegantha, the Wellspring",5,"Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.",5,5,['Companion'],iko,Ikoria: Lair of Behemoths,19
+"Zilortha, Strength Incarnate",5,"Trample
+Lethal damage dealt to creatures you control is determined by their power rather than their toughness.",7,3,['Trample'],iko,Ikoria: Lair of Behemoths,15
+"Yorion, Sky Nomad",5,"Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Flying
+When Yorion enters, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.",4,5,"['Flying', 'Companion']",iko,Ikoria: Lair of Behemoths,13
+Dreamtail Heron,5,"Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, draw a card.",3,4,"['Flying', 'Mutate']",iko,Ikoria: Lair of Behemoths,11
+Cloudpiercer,5,"Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, you may discard a card. If you do, draw a card.",5,4,"['Reach', 'Mutate']",iko,Ikoria: Lair of Behemoths,14
+"Gyruda, Doom of Depths",6,"Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+When Gyruda enters, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.",6,6,"['Companion', 'Mill']",iko,Ikoria: Lair of Behemoths,18
+Lava Serpent,6,"Haste
+Cycling {2} ({2}, Discard this card: Draw a card.)",5,5,"['Haste', 'Cycling']",iko,Ikoria: Lair of Behemoths,15
+Sanctuary Smasher,6,"First strike
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle this card, put a first strike counter on target creature you control.",6,4,"['First strike', 'Cycling']",iko,Ikoria: Lair of Behemoths,15
+Wingfold Pteron,6,This creature enters with your choice of a flying counter or a hexproof counter on it. (A creature with hexproof can't be the target of spells or abilities your opponents control.),3,6,[],iko,Ikoria: Lair of Behemoths,12
+"Kogla, the Titan Ape",6,"When Kogla enters, it fights up to one target creature you don't control.
+Whenever Kogla attacks, destroy target artifact or enchantment defending player controls.
+{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn.",7,6,['Fight'],iko,Ikoria: Lair of Behemoths,21
+Imposing Vantasaur,6,"Vigilance
+Cycling {1} ({1}, Discard this card: Draw a card.)",3,6,"['Vigilance', 'Cycling']",iko,Ikoria: Lair of Behemoths,11
+Chittering Harvester,6,"Mutate {4}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, each opponent sacrifices a creature of their choice.",4,6,['Mutate'],iko,Ikoria: Lair of Behemoths,14
+Honey Mammoth,6,"When this creature enters, you gain 4 life.",6,6,[],iko,Ikoria: Lair of Behemoths,15
+Blitz Leech,6,"Flash
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn. Remove all counters from that creature.",5,2,['Flash'],iko,Ikoria: Lair of Behemoths,12
+Archipelagore,7,"Mutate {5}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, tap up to X target creatures, where X is the number of times this creature has mutated. Those creatures don't untap during their controller's next untap step.",7,7,['Mutate'],iko,Ikoria: Lair of Behemoths,19
+"Yidaro, Wandering Monster",7,"Trample, haste
+Cycling {1}{R}
+When you cycle this card, shuffle it into your library from your graveyard. If you've cycled a card named Yidaro, Wandering Monster four or more times this game, put it onto the battlefield from your graveyard instead. (Do this before you draw.)",8,8,"['Haste', 'Trample', 'Cycling']",iko,Ikoria: Lair of Behemoths,25
+Greater Sandwurm,7,"This creature can't be blocked by creatures with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)",7,7,['Cycling'],iko,Ikoria: Lair of Behemoths,19
+Void Beckoner,8,"Deathtouch
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+When you cycle this card, put a deathtouch counter on target creature you control.",8,8,"['Cycling', 'Deathtouch']",iko,Ikoria: Lair of Behemoths,24
+Titanoth Rex,9,"Trample
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)
+When you cycle this card, put a trample counter on target creature you control.",11,11,"['Trample', 'Cycling']",iko,Ikoria: Lair of Behemoths,29

@@ -1,0 +1,285 @@
+﻿name,cmc,oracle_text,power,toughness,keywords,set,set_name,points
+Foothill Guide,1,"Protection from Goblins
+Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,"['Morph', 'Protection']",ons,Onslaught,5
+Taunting Elf,1,All creatures able to block this creature do so.,0,1,[],ons,Onslaught,2
+Goblin Sledder,1,Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.,1,1,[],ons,Onslaught,3
+Nova Cleric,1,"{2}{W}, {T}, Sacrifice this creature: Destroy all enchantments.",1,2,[],ons,Onslaught,6
+Accursed Centaur,1,"When this creature enters, sacrifice a creature.",2,2,[],ons,Onslaught,4
+Birchlore Rangers,1,"Tap two untapped Elves you control: Add one mana of any color.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,5
+Imagecrafter,1,{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.,1,1,[],ons,Onslaught,3
+Elvish Pioneer,1,"When this creature enters, you may put a basic land card from your hand onto the battlefield tapped.",1,1,[],ons,Onslaught,4
+Elvish Scrapper,1,"{G}, {T}, Sacrifice this creature: Destroy target artifact.",1,1,[],ons,Onslaught,3
+Festering Goblin,1,"When this creature dies, target creature gets -1/-1 until end of turn.",1,1,[],ons,Onslaught,4
+Goblin Taskmaster,1,"{1}{R}: Target Goblin creature gets +1/+0 until end of turn.
+Morph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,4
+Weathered Wayfarer,1,"{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.",1,1,[],ons,Onslaught,4
+Skirk Prospector,1,Sacrifice a Goblin: Add {R}.,1,1,[],ons,Onslaught,3
+Entrails Feaster,1,"At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on this creature. If you don't, tap this creature.",1,1,[],ons,Onslaught,4
+Gustcloak Runner,1,"Whenever this creature becomes blocked, you may untap it and remove it from combat.",1,1,[],ons,Onslaught,3
+Headhunter,2,"Whenever this creature deals combat damage to a player, that player discards a card.
+Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,5
+Voidmage Prodigy,2,"{U}{U}, Sacrifice a Wizard: Counter target spell.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,1,['Morph'],ons,Onslaught,5
+Catapult Squad,2,Tap two untapped Soldiers you control: This creature deals 2 damage to target attacking or blocking creature.,2,1,[],ons,Onslaught,4
+Information Dealer,2,"{T}: Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.",1,1,[],ons,Onslaught,3
+Battlefield Medic,2,"{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.",1,1,[],ons,Onslaught,3
+Wretched Anurid,2,"Whenever another creature enters, you lose 1 life.",3,3,[],ons,Onslaught,6
+Wall of Mulch,2,"Defender (This creature can't attack.)
+{G}, Sacrifice a Wall: Draw a card.",0,4,['Defender'],ons,Onslaught,5
+Shepherd of Rot,2,{T}: Each player loses 1 life for each Zombie on the battlefield.,1,1,[],ons,Onslaught,4
+Glory Seeker,2,,2,2,[],ons,Onslaught,4
+Disciple of Malice,2,"Protection from white
+Cycling {2} ({2}, Discard this card: Draw a card.)",1,2,"['Protection', 'Cycling']",ons,Onslaught,6
+Tempting Wurm,2,"When this creature enters, each opponent may put any number of artifact, creature, enchantment, and/or land cards from their hand onto the battlefield.",5,5,[],ons,Onslaught,12
+Broodhatch Nantuko,2,"Whenever this creature is dealt damage, you may create that many 1/1 green Insect creature tokens.
+Morph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,6
+Wirewood Elf,2,{T}: Add {G}.,1,2,[],ons,Onslaught,4
+Dwarven Blastminer,2,"{2}{R}, {T}: Destroy target nonbasic land.
+Morph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,5
+Elvish Warrior,2,,2,3,[],ons,Onslaught,5
+Disciple of Grace,2,"Protection from black
+Cycling {2} ({2}, Discard this card: Draw a card.)",1,2,"['Protection', 'Cycling']",ons,Onslaught,6
+Wirewood Herald,2,"When this creature dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle.",1,1,[],ons,Onslaught,4
+Wellwisher,2,{T}: You gain 1 life for each Elf on the battlefield.,1,1,[],ons,Onslaught,3
+Mistform Stalker,2,"{1}: This creature becomes the creature type of your choice until end of turn.
+{2}{U}{U}: This creature gets +2/+2 and gains flying until end of turn.",1,1,[],ons,Onslaught,4
+Elvish Vanguard,2,"Whenever another Elf enters, put a +1/+1 counter on this creature.",1,1,[],ons,Onslaught,4
+True Believer,2,You have shroud. (You can't be the target of spells or abilities.),2,2,[],ons,Onslaught,5
+Whipcorder,2,"{W}, {T}: Tap target creature.
+Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,2,['Morph'],ons,Onslaught,6
+Sparksmith,2,"{T}: This creature deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.",1,1,[],ons,Onslaught,3
+Goblin Piledriver,2,"Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)
+Whenever this creature attacks, it gets +2/+0 until end of turn for each other attacking Goblin.",1,2,['Protection'],ons,Onslaught,6
+Spitfire Handler,2,"This creature can't block creatures with power greater than this creature's power.
+{R}: This creature gets +1/+0 until end of turn.",1,1,[],ons,Onslaught,3
+Boneknitter,2,"{1}{B}: Regenerate target Zombie.
+Morph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,4
+Aphetto Alchemist,2,"{T}: Untap target artifact or creature.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,2,['Morph'],ons,Onslaught,5
+Bloodline Shaman,2,"{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard.",1,1,[],ons,Onslaught,4
+Riptide Biologist,2,"Protection from Beasts
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,2,"['Morph', 'Protection']",ons,Onslaught,6
+Rotlung Reanimator,3,"Whenever this creature or another Cleric dies, create a 2/2 black Zombie creature token.",2,2,[],ons,Onslaught,9
+Goblin Sky Raider,3,Flying (This creature can't be blocked except by creatures with flying or reach.),1,2,['Flying'],ons,Onslaught,4
+Aphetto Grifter,3,Tap two untapped Wizards you control: Tap target permanent.,1,1,[],ons,Onslaught,3
+Disruptive Pitmage,3,"{T}: Counter target spell unless its controller pays {1}.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,4
+Nantuko Husk,3,Sacrifice a creature: This creature gets +2/+2 until end of turn.,2,2,[],ons,Onslaught,5
+Ebonblade Reaper,3,"Whenever this creature attacks, you lose half your life, rounded up.
+Whenever this creature deals combat damage to a player, that player loses half their life, rounded up.
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,5
+Spined Basher,3,Morph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),3,1,['Morph'],ons,Onslaught,5
+Frightshroud Courier,3,"You may choose not to untap this creature during your untap step.
+{2}{B}, {T}: Target Zombie creature gets +2/+2 and has fear for as long as this creature remains tapped. (It can't be blocked except by artifact creatures and/or black creatures.)",2,1,[],ons,Onslaught,5
+Leery Fogbeast,3,"Whenever this creature becomes blocked, prevent all combat damage that would be dealt this turn.",4,2,[],ons,Onslaught,8
+Doomed Necromancer,3,"{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield.",2,2,[],ons,Onslaught,6
+Wirewood Savage,3,"Whenever a Beast enters, you may draw a card.",2,2,[],ons,Onslaught,6
+Nosy Goblin,3,"{T}, Sacrifice this creature: Destroy target face-down creature.",2,1,[],ons,Onslaught,5
+Callous Oppressor,3,"You may choose not to untap this creature during your untap step.
+As this creature enters, an opponent chooses a creature type.
+{T}: Gain control of target creature that isn't of the chosen type for as long as this creature remains tapped.",1,2,[],ons,Onslaught,5
+Undead Gladiator,3,"{1}{B}, Discard a card: Return this card from your graveyard to your hand. Activate only during your upkeep.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)",3,1,['Cycling'],ons,Onslaught,7
+Dawning Purist,3,"Whenever this creature deals combat damage to a player, you may destroy target enchantment that player controls.
+Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,2,['Morph'],ons,Onslaught,7
+Cabal Slaver,3,"Whenever a Goblin deals combat damage to a player, that player discards a card.",2,1,[],ons,Onslaught,5
+Gustcloak Harrier,3,"Flying
+Whenever this creature becomes blocked, you may untap it and remove it from combat.",2,2,['Flying'],ons,Onslaught,6
+Skirk Commando,3,"Whenever this creature deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.
+Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,1,['Morph'],ons,Onslaught,5
+Goblin Sharpshooter,3,"This creature doesn't untap during your untap step.
+Whenever a creature dies, untap this creature.
+{T}: This creature deals 1 damage to any target.",1,1,[],ons,Onslaught,5
+Pearlspear Courier,3,"You may choose not to untap this creature during your untap step.
+{2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as this creature remains tapped.",2,1,[],ons,Onslaught,4
+Walking Desecration,3,"{B}, {T}: Creatures of the creature type of your choice attack this turn if able.",1,1,[],ons,Onslaught,3
+Crafty Pathmage,3,{T}: Target creature with power 2 or less can't be blocked this turn.,1,1,[],ons,Onslaught,3
+Ghosthelm Courier,3,"You may choose not to untap this creature during your untap step.
+{2}{U}, {T}: Target Wizard creature gets +2/+2 and has shroud for as long as this creature remains tapped. (It can't be the target of spells or abilities.)",2,1,[],ons,Onslaught,4
+Thoughtbound Primoc,3,"Flying
+At the beginning of your upkeep, if a player controls more Wizards than each other player, the player who controls the most Wizards gains control of this creature.",2,3,['Flying'],ons,Onslaught,7
+Flamestick Courier,3,"You may choose not to untap this creature during your untap step.
+{2}{R}, {T}: Target Goblin creature gets +2/+2 and has haste for as long as this creature remains tapped.",2,1,[],ons,Onslaught,4
+Mistform Dreamer,3,"Flying
+{1}: This creature becomes the creature type of your choice until end of turn.",2,1,['Flying'],ons,Onslaught,5
+Everglove Courier,3,"You may choose not to untap this creature during your untap step.
+{2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as this creature remains tapped.",2,1,[],ons,Onslaught,4
+Daru Healer,3,"{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,2,['Morph'],ons,Onslaught,5
+Cabal Archon,3,"{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.",2,2,[],ons,Onslaught,6
+Riptide Entrancer,3,"Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect lasts indefinitely.)
+Morph {U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ons,Onslaught,6
+Fleeting Aven,3,"Flying
+Whenever a player cycles a card, return this creature to its owner's hand.",2,2,['Flying'],ons,Onslaught,6
+Mistform Wall,3,"This creature has defender as long as it's a Wall.
+{1}: This creature becomes the creature type of your choice until end of turn.",1,4,[],ons,Onslaught,6
+Severed Legion,3,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),2,2,['Fear'],ons,Onslaught,5
+Serpentine Basilisk,4,"Whenever this creature deals combat damage to a creature, destroy that creature at end of combat.
+Morph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,3,['Morph'],ons,Onslaught,8
+Gravel Slinger,4,"{T}: This creature deals 1 damage to target attacking or blocking creature.
+Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,3,['Morph'],ons,Onslaught,6
+Reckless One,4,"Haste
+Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.",*,*,['Haste'],ons,Onslaught,10
+Ascending Aven,4,"Flying
+This creature can block only creatures with flying.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,2,"['Flying', 'Morph']",ons,Onslaught,7
+Goblin Pyromancer,4,"When this creature enters, Goblin creatures get +3/+0 until end of turn.
+At the beginning of the end step, destroy all Goblins.",2,2,[],ons,Onslaught,8
+Crude Rampart,4,"Defender (This creature can't attack.)
+Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,5,"['Morph', 'Defender']",ons,Onslaught,10
+Gustcloak Sentinel,4,"Whenever this creature becomes blocked, you may untap it and remove it from combat.",3,3,[],ons,Onslaught,7
+Nameless One,4,"Nameless One's power and toughness are each equal to the number of Wizards on the battlefield.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",*,*,['Morph'],ons,Onslaught,9
+Rummaging Wizard,4,{2}{U}: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.),2,2,['Surveil'],ons,Onslaught,5
+Haunted Cadaver,4,"Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards.
+Morph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,2,['Morph'],ons,Onslaught,9
+Battering Craghorn,4,"First strike
+Morph {1}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,1,"['Morph', 'First strike']",ons,Onslaught,6
+Sage Aven,4,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+When this creature enters, look at the top four cards of your library, then put them back in any order.",1,3,['Flying'],ons,Onslaught,6
+Clone,4,You may have this creature enter as a copy of any creature on the battlefield.,0,0,[],ons,Onslaught,2
+Screeching Buzzard,4,"Flying
+When this creature dies, each opponent discards a card.",2,2,['Flying'],ons,Onslaught,8
+Dive Bomber,4,"Flying
+{T}, Sacrifice this creature: It deals 2 damage to target attacking or blocking creature.",2,2,['Flying'],ons,Onslaught,6
+Snarling Undorak,4,"{2}{G}: Target Beast creature gets +1/+1 until end of turn.
+Morph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,3,['Morph'],ons,Onslaught,8
+Doubtless One,4,"Doubtless One's power and toughness are each equal to the number of Clerics on the battlefield.
+Whenever this creature deals damage, you gain that much life.",*,*,[],ons,Onslaught,9
+Symbiotic Elf,4,"When this creature dies, create two 1/1 green Insect creature tokens.",2,2,[],ons,Onslaught,9
+Embermage Goblin,4,"When this creature enters, you may search your library for a card named Embermage Goblin, reveal it, put it into your hand, then shuffle.
+{T}: This creature deals 1 damage to any target.",1,1,[],ons,Onslaught,6
+Daru Cavalier,4,"First strike
+When this creature enters, you may search your library for a card named Daru Cavalier, reveal it, put it into your hand, then shuffle.",2,2,['First strike'],ons,Onslaught,6
+Soulless One,4,Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.,*,*,[],ons,Onslaught,8
+Cabal Executioner,4,"Whenever this creature deals combat damage to a player, that player sacrifices a creature of their choice.
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,2,['Morph'],ons,Onslaught,7
+Gustcloak Skirmisher,4,"Flying
+Whenever this creature becomes blocked, you may untap it and remove it from combat.",2,3,['Flying'],ons,Onslaught,7
+Ravenous Baloth,4,Sacrifice a Beast: You gain 4 life.,4,4,[],ons,Onslaught,10
+Elvish Pathcutter,4,{2}{G}: Target Elf creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.),1,2,[],ons,Onslaught,4
+Heedless One,4,"Trample
+Heedless One's power and toughness are each equal to the number of Elves on the battlefield.",*,*,['Trample'],ons,Onslaught,9
+Grinning Demon,4,"At the beginning of your upkeep, you lose 2 life.
+Morph {2}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",6,6,['Morph'],ons,Onslaught,15
+Blistering Firecat,4,"Trample, haste
+At the beginning of the end step, sacrifice this creature.
+Morph {R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",7,1,"['Morph', 'Haste', 'Trample']",ons,Onslaught,15
+Skirk Fire Marshal,5,"Protection from red
+Tap five untapped Goblins you control: This creature deals 10 damage to each creature and each player.",2,2,['Protection'],ons,Onslaught,8
+Spitting Gourna,5,"Reach (This creature can block creatures with flying.)
+Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,4,"['Reach', 'Morph']",ons,Onslaught,9
+Avarax,5,"Haste
+When this creature enters, you may search your library for a card named Avarax, reveal it, put it into your hand, then shuffle.
+{1}{R}: This creature gets +1/+0 until end of turn.",3,3,['Haste'],ons,Onslaught,10
+Catapult Master,5,Tap five untapped Soldiers you control: Exile target creature.,3,3,[],ons,Onslaught,9
+Stag Beetle,5,"This creature enters with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.",0,0,[],ons,Onslaught,2
+Riptide Shapeshifter,5,"{2}{U}{U}, Sacrifice this creature: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.",3,3,[],ons,Onslaught,8
+"Ixidor, Reality Sculptor",5,"Face-down creatures get +1/+1.
+{2}{U}: Turn target face-down creature face up.",3,4,[],ons,Onslaught,9
+Tephraderm,5,"Whenever a creature deals damage to this creature, this creature deals that much damage to that creature.
+Whenever a spell deals damage to this creature, this creature deals that much damage to that spell's controller.",4,5,[],ons,Onslaught,13
+Gigapede,5,"Shroud (This creature can't be the target of spells or abilities.)
+At the beginning of your upkeep, if this card is in your graveyard, you may discard a card. If you do, return this card to your hand.",6,1,['Shroud'],ons,Onslaught,12
+Gustcloak Savior,5,"Flying
+Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.",3,4,['Flying'],ons,Onslaught,10
+Voice of the Woods,5,Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample. (It can deal excess combat damage to the player or planeswalker it's attacking.),2,2,[],ons,Onslaught,19
+Hystrodon,5,"Trample
+Whenever this creature deals combat damage to a player, you may draw a card.
+Morph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,4,"['Morph', 'Trample']",ons,Onslaught,11
+Prowling Pangolin,5,"When this creature enters, any player may sacrifice two creatures of their choice. If a player does, sacrifice this creature.",6,5,[],ons,Onslaught,14
+Mistform Shrieker,5,"Flying
+{1}: This creature becomes the creature type of your choice until end of turn.
+Morph {3}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,3,"['Flying', 'Morph']",ons,Onslaught,9
+Daunting Defender,5,"If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.",3,3,[],ons,Onslaught,7
+Fallen Cleric,5,"Protection from Clerics
+Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,2,"['Morph', 'Protection']",ons,Onslaught,10
+Riptide Chronologist,5,"{U}, Sacrifice this creature: Untap all creatures of the creature type of your choice.",1,3,[],ons,Onslaught,5
+Goblin Machinist,5,"{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. This creature gets +X/+0 until end of turn, where X is that card's mana value. Put the revealed cards on the bottom of your library in any order.",0,5,[],ons,Onslaught,6
+Menacing Ogre,5,"Trample, haste
+When this creature enters, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on this creature..",3,3,"['Haste', 'Trample']",ons,Onslaught,13
+Aven Soulgazer,5,"Flying
+{2}{W}: Look at target face-down creature.",3,3,['Flying'],ons,Onslaught,8
+Spurred Wolverine,5,Tap two untapped Beasts you control: Target creature gains first strike until end of turn.,3,2,[],ons,Onslaught,6
+Gangrenous Goliath,5,Tap three untapped Clerics you control: Return this card from your graveyard to your hand.,4,4,[],ons,Onslaught,11
+Charging Slateback,5,"This creature can't block.
+Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,3,['Morph'],ons,Onslaught,9
+Ancestor's Prophet,5,Tap five untapped Clerics you control: You gain 10 life.,1,5,[],ons,Onslaught,7
+Elven Riders,5,This creature can't be blocked except by Walls and/or creatures with flying.,3,3,[],ons,Onslaught,7
+Airdrop Condor,5,"Flying
+{1}{R}, Sacrifice a Goblin creature: This creature deals damage equal to the sacrificed creature's power to any target.",2,2,['Flying'],ons,Onslaught,7
+Gluttonous Zombie,5,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),3,3,['Fear'],ons,Onslaught,7
+Snapping Thragg,5,"Whenever this creature deals combat damage to a player, you may have it deal 3 damage to target creature that player controls.
+Morph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,3,['Morph'],ons,Onslaught,8
+Thrashing Mudspawn,5,"Whenever this creature is dealt damage, you lose that much life.
+Morph {1}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,4,['Morph'],ons,Onslaught,10
+Screaming Seahawk,5,"Flying
+When this creature enters, you may search your library for a card named Screaming Seahawk, reveal it, put it into your hand, then shuffle.",2,2,['Flying'],ons,Onslaught,7
+Ironfist Crusher,5,"This creature can block any number of creatures.
+Morph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,4,['Morph'],ons,Onslaught,8
+Barkhide Mauler,5,"Cycling {2} ({2}, Discard this card: Draw a card.)",4,4,['Cycling'],ons,Onslaught,10
+Supreme Inquisitor,5,Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles.,1,3,[],ons,Onslaught,10
+Silklash Spider,5,"Reach
+{X}{G}{G}: This creature deals X damage to each creature with flying.",2,7,['Reach'],ons,Onslaught,12
+Shieldmage Elder,6,"Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn.
+Tap two untapped Wizards you control: Prevent all damage target spell would deal this turn.",2,3,[],ons,Onslaught,7
+Aven Brigadier,6,"Flying
+Other Bird creatures get +1/+1.
+Other Soldier creatures get +1/+1.",3,5,['Flying'],ons,Onslaught,13
+Daru Lancer,6,"First strike
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,4,"['Morph', 'First strike']",ons,Onslaught,9
+Visara the Dreadful,6,"Flying
+{T}: Destroy target creature. It can't be regenerated.",5,5,['Flying'],ons,Onslaught,15
+"Kamahl, Fist of Krosa",6,"{G}: Target land becomes a 1/1 creature until end of turn. It's still a land.
+{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.",4,3,[],ons,Onslaught,11
+"Silvos, Rogue Elemental",6,"Trample
+{G}: Regenerate Silvos.",8,5,['Trample'],ons,Onslaught,18
+"Jareth, Leonine Titan",6,"Whenever Jareth blocks, it gets +7/+7 until end of turn.
+{W}: Jareth gains protection from the color of your choice until end of turn.",4,7,[],ons,Onslaught,16
+Tribal Golem,6,"This creature has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and ""{B}: Regenerate this creature"" as long as you control a Zombie.",4,4,[],ons,Onslaught,14
+Silent Specter,6,"Flying
+Whenever this creature deals combat damage to a player, that player discards two cards.
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,4,"['Flying', 'Morph']",ons,Onslaught,14
+Anurid Murkdiver,6,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),4,3,"['Landwalk', 'Swampwalk']",ons,Onslaught,9
+Graxiplon,6,This creature can't be blocked unless defending player controls three or more creatures that share a creature type.,3,4,[],ons,Onslaught,8
+Aphetto Vulture,6,"Flying
+When this creature dies, you may put target Zombie card from your graveyard on top of your library.",3,2,['Flying'],ons,Onslaught,8
+Symbiotic Beast,6,"When this creature dies, create four 1/1 green Insect creature tokens.",4,4,[],ons,Onslaught,18
+Treespring Lorian,6,Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),5,4,['Morph'],ons,Onslaught,12
+Glarecaster,6,"Flying
+{5}{W}: The next time damage would be dealt to this creature and/or you this turn, that damage is dealt to any target instead.",3,3,['Flying'],ons,Onslaught,9
+Rorix Bladewing,6,"Flying, haste",6,5,"['Flying', 'Haste']",ons,Onslaught,16
+Arcanis the Omnipotent,6,"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis to its owner's hand.",3,4,[],ons,Onslaught,11
+Mistform Mutant,6,{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.,3,4,[],ons,Onslaught,8
+Exalted Angel,6,"Flying
+Whenever this creature deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,5,"['Flying', 'Morph']",ons,Onslaught,13
+Grassland Crusader,6,{T}: Target Elf or Soldier creature gets +2/+2 until end of turn.,2,4,[],ons,Onslaught,7
+Gravespawn Sovereign,6,Tap five untapped Zombies you control: Put target creature card from a graveyard onto the battlefield under your control.,3,3,[],ons,Onslaught,8
+Quicksilver Dragon,6,"Flying
+{U}: If target spell has only one target and that target is this creature, change that spell's target to another creature.
+Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",5,5,"['Flying', 'Morph']",ons,Onslaught,15
+Venomspout Brackus,7,"{1}{G}, {T}: This creature deals 5 damage to target attacking or blocking creature with flying.
+Morph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",5,5,['Morph'],ons,Onslaught,14
+Crowd Favorites,7,"{3}{W}: Tap target creature.
+{3}{W}: This creature gets +0/+5 until end of turn.",4,4,[],ons,Onslaught,11
+Aven Fateshaper,7,"Flying
+When this creature enters, look at the top four cards of your library, then put them back in any order.
+{4}{U}: Look at the top four cards of your library, then put them back in any order.",4,5,['Flying'],ons,Onslaught,13
+Krosan Tusker,7,"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle this card, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle. (Do this before you draw.)",6,5,['Cycling'],ons,Onslaught,16
+Skittish Valesk,7,"At the beginning of your upkeep, flip a coin. If you lose the flip, turn this creature face down.
+Morph {5}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",5,5,['Morph'],ons,Onslaught,13
+Krosan Groundshaker,7,{G}: Target Beast creature gains trample until end of turn.,6,6,[],ons,Onslaught,15
+Slipstream Eel,7,"This creature can't attack unless defending player controls an Island.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)",6,6,['Cycling'],ons,Onslaught,15
+Mistform Skyreaver,7,"Flying
+{1}: This creature becomes the creature type of your choice until end of turn.",6,6,['Flying'],ons,Onslaught,16
+Shaleskin Bruiser,7,"Trample
+Whenever this creature attacks, it gets +3/+0 until end of turn for each other attacking Beast.",4,4,['Trample'],ons,Onslaught,11
+Butcher Orgg,7,You may assign this creature's combat damage divided as you choose among defending player and/or any number of creatures they control.,6,6,[],ons,Onslaught,15
+Towering Baloth,8,Morph {6}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),7,6,['Morph'],ons,Onslaught,17
+Symbiotic Wurm,8,"When this creature dies, create seven 1/1 green Insect creature tokens.",7,7,[],ons,Onslaught,32
+Krosan Colossus,9,Morph {6}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),9,9,['Morph'],ons,Onslaught,22

@@ -1,0 +1,288 @@
+﻿name,cmc,oracle_text,power,toughness,keywords,set,set_name,points
+Flamekin Bladewhirl,1,"As an additional cost to cast this spell, reveal an Elemental card from your hand or pay {3}.",2,1,[],lrw,Lorwyn,3
+Facevaulter,1,"{B}, Sacrifice a Goblin: This creature gets +2/+2 until end of turn.",1,1,[],lrw,Lorwyn,3
+Flamekin Brawler,1,{R}: This creature gets +1/+0 until end of turn.,0,2,[],lrw,Lorwyn,3
+Elvish Eulogist,1,Sacrifice this creature: You gain 1 life for each Elf card in your graveyard.,1,1,[],lrw,Lorwyn,3
+Goldmeadow Dodger,1,This creature can't be blocked by creatures with power 4 or greater.,1,1,[],lrw,Lorwyn,3
+Goldmeadow Stalwart,1,"As an additional cost to cast this spell, reveal a Kithkin card from your hand or pay {3}.",2,2,[],lrw,Lorwyn,4
+Elvish Handservant,1,"Whenever a player casts a Giant spell, you may put a +1/+1 counter on this creature.",1,1,[],lrw,Lorwyn,4
+Knucklebone Witch,1,"Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on this creature.",1,1,[],lrw,Lorwyn,4
+Nightshade Stinger,1,"Flying
+This creature can't block.",1,1,['Flying'],lrw,Lorwyn,3
+Treefolk Harbinger,1,"When this creature enters, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top.",0,3,[],lrw,Lorwyn,4
+Burrenton Forge-Tender,1,"Protection from red
+Sacrifice this creature: Prevent all damage a red source of your choice would deal this turn.",1,1,['Protection'],lrw,Lorwyn,5
+Goldmeadow Harrier,1,"{W}, {T}: Tap target creature.",1,1,[],lrw,Lorwyn,3
+Flamekin Harbinger,1,"When this creature enters, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top.",1,1,[],lrw,Lorwyn,3
+Boggart Forager,1,"{R}, Sacrifice this creature: Target player shuffles their library.",1,1,[],lrw,Lorwyn,3
+Tideshaper Mystic,1,{T}: Target land becomes the basic land type of your choice until end of turn. Activate only during your turn.,1,1,[],lrw,Lorwyn,3
+Deeptread Merrow,2,{U}: This creature gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.),2,1,[],lrw,Lorwyn,4
+Skeletal Changeling,2,"Changeling (This card is every creature type.)
+{1}{B}: Regenerate this creature.",1,1,['Changeling'],lrw,Lorwyn,4
+Ringskipper,2,"Flying
+When this creature dies, clash with an opponent. If you win, return this card to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",1,1,"['Flying', 'Clash']",lrw,Lorwyn,5
+Ashling the Pilgrim,2,"{1}{R}: Put a +1/+1 counter on Ashling. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling, and it deals that much damage to each creature and each player.",1,1,[],lrw,Lorwyn,5
+Boggart Sprite-Chaser,2,"As long as you control a Faerie, this creature gets +1/+1 and has flying.",1,2,[],lrw,Lorwyn,4
+Nath's Buffoon,2,Protection from Elves,1,1,['Protection'],lrw,Lorwyn,4
+Kinsbaile Skirmisher,2,"When this creature enters, target creature gets +1/+1 until end of turn.",2,2,[],lrw,Lorwyn,5
+Scarred Vinebreeder,2,"{2}{B}, Exile an Elf card from your graveyard: This creature gets +3/+3 until end of turn.",1,1,[],lrw,Lorwyn,3
+Silvergill Adept,2,"As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay {3}.
+When this creature enters, draw a card.",2,1,[],lrw,Lorwyn,5
+Warren-Scourge Elf,2,Protection from Goblins,1,1,['Protection'],lrw,Lorwyn,4
+Oona's Prowler,2,"Flying
+Discard a card: This creature gets -2/-0 until end of turn. Any player may activate this ability.",3,1,['Flying'],lrw,Lorwyn,6
+Wizened Cenn,2,Other Kithkin creatures you control get +1/+1.,2,2,[],lrw,Lorwyn,6
+Spellstutter Sprite,2,"Flash
+Flying
+When this creature enters, counter target spell with mana value X or less, where X is the number of Faeries you control.",1,1,"['Flying', 'Flash']",lrw,Lorwyn,5
+Leaf Gilder,2,{T}: Add {G}.,2,1,[],lrw,Lorwyn,4
+Exiled Boggart,2,"When this creature dies, discard a card.",2,2,[],lrw,Lorwyn,4
+Knight of Meadowgrain,2,"First strike
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",2,2,"['Lifelink', 'First strike']",lrw,Lorwyn,6
+Stonybrook Angler,2,"{1}{U}, {T}: You may tap or untap target creature.",1,2,[],lrw,Lorwyn,4
+Silvergill Douser,2,"{T}: Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control.",1,1,[],lrw,Lorwyn,3
+Kithkin Daggerdare,2,"{G}, {T}: Target attacking creature gets +2/+2 until end of turn.",1,1,[],lrw,Lorwyn,3
+Flamekin Spitfire,2,{3}{R}: This creature deals 1 damage to any target.,1,1,[],lrw,Lorwyn,4
+Cenn's Heir,2,"Whenever this creature attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.",1,1,[],lrw,Lorwyn,3
+Woodland Changeling,2,Changeling (This card is every creature type.),2,2,['Changeling'],lrw,Lorwyn,5
+Squeaking Pie Sneak,2,"As an additional cost to cast this spell, reveal a Goblin card from your hand or pay {3}.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",2,2,['Fear'],lrw,Lorwyn,5
+"Sygg, River Guide",2,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+{1}{W}: Target Merfolk you control gains protection from the color of your choice until end of turn.",2,2,"['Landwalk', 'Islandwalk']",lrw,Lorwyn,6
+Soulbright Flamekin,2,"{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R}.",2,1,[],lrw,Lorwyn,6
+Fire-Belly Changeling,2,"Changeling (This card is every creature type.)
+{R}: This creature gets +1/+0 until end of turn. Activate no more than twice each turn.",1,1,['Changeling'],lrw,Lorwyn,4
+Kithkin Greatheart,2,"As long as you control a Giant, this creature gets +1/+1 and has first strike.",2,1,[],lrw,Lorwyn,4
+Shapesharer,2,"Changeling (This card is every creature type.)
+{2}{U}: Target Shapeshifter becomes a copy of target creature until your next turn.",1,1,['Changeling'],lrw,Lorwyn,4
+Smokebraider,2,{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elementals.,1,1,[],lrw,Lorwyn,5
+Nectar Faerie,2,"Flying
+{B}, {T}: Target Faerie or Elf gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",1,1,['Flying'],lrw,Lorwyn,4
+Judge of Currents,2,"Whenever a Merfolk you control becomes tapped, you may gain 1 life.",1,1,[],lrw,Lorwyn,3
+Amoeboid Changeling,2,"Changeling (This card is every creature type.)
+{T}: Target creature gains all creature types until end of turn.
+{T}: Target creature loses all creature types until end of turn.",1,1,['Changeling'],lrw,Lorwyn,5
+Gaddock Teeg,2,"Noncreature spells with mana value 4 or greater can't be cast.
+Noncreature spells with {X} in their mana costs can't be cast.",2,2,[],lrw,Lorwyn,8
+Adder-Staff Boggart,2,"When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",2,1,['Clash'],lrw,Lorwyn,6
+Wren's Run Vanquisher,2,"As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",3,3,['Deathtouch'],lrw,Lorwyn,8
+Kithkin Harbinger,3,"When this creature enters, you may search your library for a Kithkin card, reveal it, then shuffle and put that card on top.",1,3,[],lrw,Lorwyn,5
+Wispmare,3,"Flying
+When this creature enters, destroy target enchantment.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",1,3,"['Flying', 'Evoke']",lrw,Lorwyn,8
+Elvish Branchbender,3,"{T}: Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control.",2,2,[],lrw,Lorwyn,5
+Mudbutton Torchrunner,3,"When this creature dies, it deals 3 damage to any target.",1,1,[],lrw,Lorwyn,4
+"Doran, the Siege Tower",3,Each creature assigns combat damage equal to its toughness rather than its power.,0,5,[],lrw,Lorwyn,7
+Streambed Aquitects,3,"{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+{T}: Target land becomes an Island until end of turn.",2,3,[],lrw,Lorwyn,7
+Harpoon Sniper,3,"{W}, {T}: This creature deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.",2,2,[],lrw,Lorwyn,5
+Merrow Reejerey,3,"Other Merfolk creatures you control get +1/+1.
+Whenever you cast a Merfolk spell, you may tap or untap target permanent.",2,2,[],lrw,Lorwyn,7
+Mirror Entity,3,"Changeling (This card is every creature type.)
+{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.",1,1,['Changeling'],lrw,Lorwyn,4
+Goatnapper,3,"When this creature enters, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.",2,2,[],lrw,Lorwyn,6
+Paperfin Rascal,3,"When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",2,2,['Clash'],lrw,Lorwyn,7
+Thieving Sprite,3,"Flying
+When this creature enters, target player reveals X cards from their hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.",1,1,['Flying'],lrw,Lorwyn,5
+Battlewand Oak,3,"Whenever a Forest you control enters, this creature gets +2/+2 until end of turn.
+Whenever you cast a Treefolk spell, this creature gets +2/+2 until end of turn.",1,3,[],lrw,Lorwyn,6
+Boggart Loggers,3,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+{2}{B}, Sacrifice this creature: Destroy target Treefolk or Forest.",2,1,"['Landwalk', 'Forestwalk']",lrw,Lorwyn,6
+Springjack Knight,3,"Whenever this creature attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",2,1,['Clash'],lrw,Lorwyn,5
+Lys Alana Scarblade,3,"{T}, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.",1,1,[],lrw,Lorwyn,4
+Jagged-Scar Archers,3,"Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.
+{T}: This creature deals damage equal to its power to target creature with flying.",*,*,[],lrw,Lorwyn,7
+Avian Changeling,3,"Changeling (This card is every creature type.)
+Flying",2,2,"['Changeling', 'Flying']",lrw,Lorwyn,6
+Spiderwig Boggart,3,"When this creature enters, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",2,2,[],lrw,Lorwyn,5
+Boggart Harbinger,3,"When this creature enters, you may search your library for a Goblin card, reveal it, then shuffle and put that card on top.",2,1,[],lrw,Lorwyn,4
+Stinkdrinker Daredevil,3,Giant spells you cast cost {2} less to cast.,1,3,[],lrw,Lorwyn,6
+Kithkin Healer,3,{T}: Prevent the next 1 damage that would be dealt to any target this turn.,2,2,[],lrw,Lorwyn,5
+Kithkin Mourncaller,3,"Whenever an attacking Kithkin or Elf is put into your graveyard from the battlefield, you may draw a card.",2,2,[],lrw,Lorwyn,6
+Drowner of Secrets,3,Tap an untapped Merfolk you control: Target player mills a card.,1,3,['Mill'],lrw,Lorwyn,5
+Mad Auntie,3,"Other Goblin creatures you control get +1/+1.
+{T}: Regenerate another target Goblin.",2,2,[],lrw,Lorwyn,7
+Inner-Flame Igniter,3,"{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.",2,2,[],lrw,Lorwyn,6
+Black Poplar Shaman,3,{2}{B}: Regenerate target Treefolk.,1,3,[],lrw,Lorwyn,5
+Incandescent Soulstoke,3,"Other Elemental creatures you control get +1/+1.
+{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.",2,2,[],lrw,Lorwyn,8
+Ghostly Changeling,3,"Changeling (This card is every creature type.)
+{1}{B}: This creature gets +1/+1 until end of turn.",2,2,['Changeling'],lrw,Lorwyn,6
+Inner-Flame Acolyte,3,"When this creature enters, target creature gets +2/+0 and gains haste until end of turn.
+Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",2,2,['Evoke'],lrw,Lorwyn,6
+Pestermite,3,"Flash
+Flying
+When this creature enters, you may tap or untap target permanent.",2,1,"['Flying', 'Flash']",lrw,Lorwyn,6
+Scion of Oona,3,"Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (They can't be the targets of spells or abilities.)",1,1,"['Flying', 'Flash']",lrw,Lorwyn,8
+Elvish Harbinger,3,"When this creature enters, you may search your library for an Elf card, reveal it, then shuffle and put that card on top.
+{T}: Add one mana of any color.",1,2,[],lrw,Lorwyn,6
+Imperious Perfect,3,"Other Elves you control get +1/+1.
+{G}, {T}: Create a 1/1 green Elf Warrior creature token.",2,2,[],lrw,Lorwyn,9
+Blind-Spot Giant,3,This creature can't attack or block unless you control another Giant.,4,3,[],lrw,Lorwyn,8
+Gilt-Leaf Seer,3,"{G}, {T}: Look at the top two cards of your library, then put them back in any order.",2,2,[],lrw,Lorwyn,5
+Veteran of the Depths,4,"Whenever this creature becomes tapped, you may put a +1/+1 counter on it.",2,2,[],lrw,Lorwyn,6
+Kinsbaile Balloonist,4,"Flying
+Whenever this creature attacks, you may have target creature gain flying until end of turn.",2,2,['Flying'],lrw,Lorwyn,6
+Lys Alana Huntmaster,4,"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.",3,3,[],lrw,Lorwyn,9
+Galepowder Mage,4,"Flying
+Whenever this creature attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",3,3,['Flying'],lrw,Lorwyn,8
+"Wort, Boggart Auntie",4,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand.",3,3,['Fear'],lrw,Lorwyn,9
+Ceaseless Searblades,4,"Whenever you activate an ability of an Elemental, this creature gets +1/+0 until end of turn.",2,4,[],lrw,Lorwyn,7
+Briarhorn,4,"Flash
+When this creature enters, target creature gets +3/+3 until end of turn.
+Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",3,3,"['Evoke', 'Flash']",lrw,Lorwyn,9
+Hillcomber Giant,4,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),3,3,"['Landwalk', 'Mountainwalk']",lrw,Lorwyn,7
+Dauntless Dourbark,4,"Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.
+This creature has trample as long as you control another Treefolk.",*,*,[],lrw,Lorwyn,9
+Changeling Berserker,4,"Changeling (This card is every creature type.)
+Haste
+Champion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",5,3,"['Haste', 'Champion', 'Changeling']",lrw,Lorwyn,14
+Masked Admirers,4,"When this creature enters, draw a card.
+Whenever you cast a creature spell, you may pay {G}{G}. If you do, return this card from your graveyard to your hand.",3,2,[],lrw,Lorwyn,9
+Caterwauling Boggart,4,Goblins you control and Elementals you control have menace. (They can't be blocked except by two or more creatures.),2,2,[],lrw,Lorwyn,8
+Lowland Oaf,4,{T}: Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at the beginning of the next end step.,3,3,[],lrw,Lorwyn,7
+Mistbind Clique,4,"Flash
+Flying
+Champion a Faerie (When this enters, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)
+When a Faerie is championed with this creature, tap all lands target player controls.",4,4,"['Flying', 'Champion', 'Flash']",lrw,Lorwyn,13
+Faerie Harbinger,4,"Flash
+Flying
+When this creature enters, you may search your library for a Faerie card, reveal it, then shuffle and put that card on top.",2,2,"['Flying', 'Flash']",lrw,Lorwyn,7
+Dawnfluke,4,"Flash
+When this creature enters, prevent the next 3 damage that would be dealt to any target this turn.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",0,3,"['Evoke', 'Flash']",lrw,Lorwyn,6
+"Wydwen, the Biting Gale",4,"Flash
+Flying
+{U}{B}, Pay 1 life: Return Wydwen to its owner's hand.",3,3,"['Flying', 'Flash']",lrw,Lorwyn,9
+Moonglove Winnower,4,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),2,3,['Deathtouch'],lrw,Lorwyn,7
+Oaken Brawler,4,"When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",2,4,['Clash'],lrw,Lorwyn,9
+Fallowsage,4,"Whenever this creature becomes tapped, you may draw a card.",2,2,[],lrw,Lorwyn,6
+Cloudcrown Oak,4,Reach (This creature can block creatures with flying.),3,4,['Reach'],lrw,Lorwyn,8
+Sentinels of Glen Elendra,4,"Flash
+Flying",2,3,"['Flying', 'Flash']",lrw,Lorwyn,7
+"Brigid, Hero of Kinsbaile",4,"First strike
+{T}: Brigid deals 2 damage to each attacking or blocking creature target player controls.",2,3,['First strike'],lrw,Lorwyn,8
+Quill-Slinger Boggart,4,"Whenever a player casts a Kithkin spell, you may have target player lose 1 life.",3,2,[],lrw,Lorwyn,8
+Thoughtweft Trio,4,"First strike, vigilance
+Champion a Kithkin (When this enters, sacrifice it unless you exile another Kithkin you control. When this leaves the battlefield, that card returns to the battlefield.)
+This creature can block any number of creatures.",5,5,"['Vigilance', 'First strike', 'Champion']",lrw,Lorwyn,16
+Boggart Mob,4,"Champion a Goblin (When this enters, sacrifice it unless you exile another Goblin you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever a Goblin you control deals combat damage to a player, you may create a 1/1 black Goblin Rogue creature token.",5,5,['Champion'],lrw,Lorwyn,16
+Hornet Harasser,4,"When this creature dies, target creature gets -2/-2 until end of turn.",2,2,[],lrw,Lorwyn,6
+Immaculate Magistrate,4,{T}: Put a +1/+1 counter on target creature for each Elf you control.,2,2,[],lrw,Lorwyn,6
+Surgespanner,4,"Whenever this creature becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner's hand.",2,2,[],lrw,Lorwyn,6
+Glen Elendra Pranksters,4,"Flying
+Whenever you cast a spell during an opponent's turn, you may return target creature you control to its owner's hand.",1,3,['Flying'],lrw,Lorwyn,6
+Bog-Strider Ash,4,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Whenever a player casts a Goblin spell, you may pay {G}. If you do, you gain 2 life.",2,4,"['Landwalk', 'Swampwalk']",lrw,Lorwyn,8
+Sower of Temptation,4,"Flying
+When this creature enters, gain control of target creature for as long as this creature remains on the battlefield.",2,2,['Flying'],lrw,Lorwyn,7
+Ethereal Whiskergill,4,"Flying
+This creature can't attack unless defending player controls an Island.",4,3,['Flying'],lrw,Lorwyn,9
+Wren's Run Packmaster,4,"Champion an Elf (When this creature enters, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)
+{2}{G}: Create a 2/2 green Wolf creature token.
+Wolves you control have deathtouch.",5,5,['Champion'],lrw,Lorwyn,19
+Merrow Harbinger,4,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+When this creature enters, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top.",2,3,"['Landwalk', 'Islandwalk']",lrw,Lorwyn,7
+Brion Stoutarm,4,"Lifelink
+{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker.",4,4,['Lifelink'],lrw,Lorwyn,12
+Marsh Flitter,4,"Flying
+When this creature enters, create two 1/1 black Goblin Rogue creature tokens.
+Sacrifice a Goblin: This creature has base power and toughness 3/3 until end of turn.",1,1,['Flying'],lrw,Lorwyn,9
+Nova Chaser,4,"Trample
+Champion an Elemental (When this enters, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)",10,2,"['Trample', 'Champion']",lrw,Lorwyn,18
+Turtleshell Changeling,4,"Changeling (This card is every creature type.)
+{1}{U}: Switch this creature's power and toughness until end of turn.",1,4,['Changeling'],lrw,Lorwyn,7
+Dreamspoiler Witches,4,"Flying
+Whenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.",2,2,['Flying'],lrw,Lorwyn,7
+Tar Pitcher,4,"{T}, Sacrifice a Goblin: This creature deals 2 damage to any target.",2,2,[],lrw,Lorwyn,6
+Nath of the Gilt-Leaf,5,"At the beginning of your upkeep, you may have target opponent discard a card at random.
+Whenever an opponent discards a card, you may create a 1/1 green Elf Warrior creature token.",4,4,[],lrw,Lorwyn,14
+Timber Protector,5,"Other Treefolk creatures you control get +1/+1.
+Other Treefolk and Forests you control have indestructible.",4,6,[],lrw,Lorwyn,15
+Plover Knights,5,"Flying, first strike",3,3,"['Flying', 'First strike']",lrw,Lorwyn,8
+Nath's Elite,5,"All creatures able to block this creature do so.
+When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",4,2,['Clash'],lrw,Lorwyn,11
+Shriekmaw,5,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When this creature enters, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",3,2,"['Evoke', 'Fear']",lrw,Lorwyn,9
+Inkfathom Divers,5,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+When this creature enters, look at the top four cards of your library, then put them back in any order.",3,3,"['Landwalk', 'Islandwalk']",lrw,Lorwyn,8
+Seedguide Ash,5,"When this creature dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle.",4,4,[],lrw,Lorwyn,13
+Glarewielder,5,"Haste
+When this creature enters, up to two target creatures can't block this turn.
+Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",3,1,"['Evoke', 'Haste']",lrw,Lorwyn,8
+Thundercloud Shaman,5,"When this creature enters, it deals damage equal to the number of Giants you control to each non-Giant creature.",4,4,[],lrw,Lorwyn,10
+Mulldrifter,5,"Flying
+When this creature enters, draw two cards.
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",2,2,"['Flying', 'Evoke']",lrw,Lorwyn,9
+Sentry Oak,5,"Defender
+At the beginning of combat on your turn, you may clash with an opponent. If you win, this creature gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",3,5,"['Clash', 'Defender']",lrw,Lorwyn,9
+Ingot Chewer,5,"When this creature enters, destroy target artifact.
+Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",3,3,['Evoke'],lrw,Lorwyn,9
+Horde of Notions,5,"Vigilance, trample, haste
+{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.",5,5,"['Vigilance', 'Haste', 'Trample']",lrw,Lorwyn,18
+Cloudgoat Ranger,5,"When this creature enters, create three 1/1 white Kithkin Soldier creature tokens.
+Tap three untapped Kithkin you control: This creature gets +2/+0 and gains flying until end of turn.",3,3,[],lrw,Lorwyn,14
+Hunter of Eyeblights,5,"When this creature enters, put a +1/+1 counter on target creature you don't control.
+{2}{B}, {T}: Destroy target creature with a counter on it.",3,3,[],lrw,Lorwyn,10
+Warren Pilferers,5,"When this creature enters, return target creature card from your graveyard to your hand. If that card is a Goblin card, this creature gains haste until end of turn.",3,3,[],lrw,Lorwyn,8
+Cairn Wanderer,5,"Changeling (This card is every creature type.)
+As long as a creature card with flying is in a graveyard, this creature has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.",4,4,['Changeling'],lrw,Lorwyn,11
+Giant Harbinger,5,"When this creature enters, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.",3,4,[],lrw,Lorwyn,8
+Changeling Titan,5,"Changeling (This card is every creature type.)
+Champion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",7,7,"['Champion', 'Changeling']",lrw,Lorwyn,19
+Wellgabber Apothecary,5,{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.,2,3,[],lrw,Lorwyn,6
+Changeling Hero,5,"Changeling (This card is every creature type.)
+Champion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",4,4,"['Lifelink', 'Champion', 'Changeling']",lrw,Lorwyn,12
+Purity,6,"Flying
+If noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.
+When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.",6,6,['Flying'],lrw,Lorwyn,17
+Thorntooth Witch,6,"Whenever you cast a Treefolk spell, you may have target creature get +3/-3 until end of turn.",3,4,[],lrw,Lorwyn,8
+Aethersnipe,6,"When this creature enters, return target nonland permanent to its owner's hand.
+Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",4,4,['Evoke'],lrw,Lorwyn,12
+Cloudthresher,6,"Flash
+Reach
+When this creature enters, it deals 2 damage to each creature with flying and each player.
+Evoke {2}{G}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",7,7,"['Reach', 'Evoke', 'Flash']",lrw,Lorwyn,22
+Vigor,6,"Trample
+If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.
+When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.",6,6,['Trample'],lrw,Lorwyn,17
+Hostility,6,"Haste
+If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.
+When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.",6,6,['Haste'],lrw,Lorwyn,22
+Wanderwine Prophets,6,"Champion a Merfolk (When this enters, sacrifice it unless you exile another Merfolk you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever this creature deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.",4,4,['Champion'],lrw,Lorwyn,13
+Guile,6,"This creature can't be blocked except by three or more creatures.
+If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.
+When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.",6,6,[],lrw,Lorwyn,18
+Sunrise Sovereign,6,Other Giant creatures you control get +2/+2 and have trample.,5,5,[],lrw,Lorwyn,14
+Axegrinder Giant,6,,6,4,[],lrw,Lorwyn,12
+Dread,6,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever a creature deals damage to you, destroy it.
+When Dread is put into a graveyard from anywhere, shuffle it into its owner's library.",6,6,['Fear'],lrw,Lorwyn,18
+Lairwatch Giant,6,"This creature can block an additional creature each combat.
+Whenever this creature blocks two or more creatures, it gains first strike until end of turn.",5,3,[],lrw,Lorwyn,12
+Bog Hoodlums,6,"This creature can't block.
+When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",4,1,['Clash'],lrw,Lorwyn,9
+Hamletback Goliath,7,"Whenever another creature enters, you may put X +1/+1 counters on this creature, where X is that creature's power.",6,6,[],lrw,Lorwyn,16
+Faultgrinder,7,"Trample
+When this creature enters, destroy target land.
+Evoke {4}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",4,4,"['Evoke', 'Trample']",lrw,Lorwyn,13
+Arbiter of Knollridge,7,"Vigilance
+When this creature enters, each player's life total becomes the highest life total among all players.",5,5,['Vigilance'],lrw,Lorwyn,15
+Mournwhelk,7,"When this creature enters, target player discards two cards.
+Evoke {3}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",3,3,['Evoke'],lrw,Lorwyn,10
+Guardian of Cloverdell,7,"When this creature enters, create three 1/1 white Kithkin Soldier creature tokens.
+{G}, Sacrifice a Kithkin: You gain 1 life.",4,5,[],lrw,Lorwyn,18
+Oakgnarl Warrior,7,"Vigilance, trample",5,7,"['Vigilance', 'Trample']",lrw,Lorwyn,16
+Benthicore,7,"When this creature enters, create two 1/1 blue Merfolk Wizard creature tokens.
+Tap two untapped Merfolk you control: Untap this creature. It gains shroud until end of turn. (It can't be the target of spells or abilities.)",5,5,[],lrw,Lorwyn,18
+Hearthcage Giant,8,"When this creature enters, create two 3/1 red Elemental Shaman creature tokens.
+Sacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.",5,5,[],lrw,Lorwyn,22

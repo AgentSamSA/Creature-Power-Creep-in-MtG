@@ -1,0 +1,219 @@
+﻿name,cmc,oracle_text,power,toughness,keywords,set,set_name,points
+Mardu Hateblade,1,{B}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),1,1,[],ktk,Khans of Tarkir,4
+Disowned Ancestor,1,"Outlast {1}{B} ({1}{B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)",0,4,['Outlast'],ktk,Khans of Tarkir,6
+Bloodsoaked Champion,1,"This creature can't block.
+Raid — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if you attacked this turn.",2,1,['Raid'],ktk,Khans of Tarkir,5
+Herald of Anafenza,1,"Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Whenever you activate this creature's outlast ability, create a 1/1 white Warrior creature token.",1,2,['Outlast'],ktk,Khans of Tarkir,8
+Kin-Tree Warden,1,"{2}: Regenerate this creature.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,1,['Morph'],ktk,Khans of Tarkir,4
+Monastery Swiftspear,1,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",1,2,"['Prowess', 'Haste']",ktk,Khans of Tarkir,6
+Ruthless Ripper,1,"Deathtouch
+Morph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, target player loses 2 life.",1,1,"['Morph', 'Deathtouch']",ktk,Khans of Tarkir,7
+Embodiment of Spring,1,"{1}{G}, {T}, Sacrifice this creature: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",0,3,[],ktk,Khans of Tarkir,5
+Firehoof Cavalry,1,{3}{R}: This creature gets +2/+0 and gains trample until end of turn.,1,1,[],ktk,Khans of Tarkir,4
+Archers' Parapet,2,"Defender
+{1}{B}, {T}: Each opponent loses 1 life.",0,5,['Defender'],ktk,Khans of Tarkir,7
+Heir of the Wilds,2,"Deathtouch
+Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, this creature gets +1/+1 until end of turn.",2,2,"['Ferocious', 'Deathtouch']",ktk,Khans of Tarkir,7
+Chief of the Edge,2,Other Warrior creatures you control get +1/+0.,3,2,[],ktk,Khans of Tarkir,6
+Ainok Bond-Kin,2,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has first strike.",2,1,['Outlast'],ktk,Khans of Tarkir,7
+Leaping Master,2,{2}{W}: This creature gains flying until end of turn.,2,1,[],ktk,Khans of Tarkir,4
+Smoke Teller,2,{1}{U}: Look at target face-down creature.,2,2,[],ktk,Khans of Tarkir,5
+Dragon's Eye Savants,2,"Morph—Reveal a blue card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, look at target opponent's hand.",0,6,['Morph'],ktk,Khans of Tarkir,8
+Jeskai Student,2,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",1,3,['Prowess'],ktk,Khans of Tarkir,5
+Chief of the Scale,2,Other Warrior creatures you control get +0/+1.,2,3,[],ktk,Khans of Tarkir,6
+Hooded Hydra,2,"This creature enters with X +1/+1 counters on it.
+When this creature dies, create a 1/1 green Snake creature token for each +1/+1 counter on it.
+Morph {3}{G}{G}
+As this creature is turned face up, put five +1/+1 counters on it.",0,0,['Morph'],ktk,Khans of Tarkir,7
+Master of Pearls,2,"Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, creatures you control get +2/+2 until end of turn.",2,2,['Morph'],ktk,Khans of Tarkir,7
+Jeskai Elder,2,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.",1,2,['Prowess'],ktk,Khans of Tarkir,5
+Gurmag Swiftwing,2,"Flying, first strike, haste",1,2,"['Flying', 'First strike', 'Haste']",ktk,Khans of Tarkir,7
+Rakshasa Deathdealer,2,"{B}{G}: This creature gets +2/+2 until end of turn.
+{B}{G}: Regenerate this creature.",2,2,[],ktk,Khans of Tarkir,6
+Valley Dasher,2,"Haste
+This creature attacks each combat if able.",2,2,['Haste'],ktk,Khans of Tarkir,6
+Horde Ambusher,2,"Whenever this creature blocks, it deals 1 damage to you.
+Morph—Reveal a red card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, target creature can't block this turn.",2,2,['Morph'],ktk,Khans of Tarkir,6
+Highland Game,2,"When this creature dies, you gain 2 life.",2,1,[],ktk,Khans of Tarkir,4
+Jeering Instigator,2,"Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.",2,1,['Morph'],ktk,Khans of Tarkir,6
+Rattleclaw Mystic,2,"{T}: Add {G}, {U}, or {R}.
+Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, add {G}{U}{R}.",2,1,['Morph'],ktk,Khans of Tarkir,8
+Seeker of the Way,2,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, this creature gains lifelink until end of turn.",2,2,['Prowess'],ktk,Khans of Tarkir,6
+Mardu Skullhunter,2,"This creature enters tapped.
+Raid — When this creature enters, if you attacked this turn, target opponent discards a card.",2,1,['Raid'],ktk,Khans of Tarkir,5
+Wetland Sambar,2,,2,1,[],ktk,Khans of Tarkir,3
+Icefeather Aven,2,"Flying
+Morph {1}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, you may return another target creature to its owner's hand.",2,2,"['Flying', 'Morph']",ktk,Khans of Tarkir,8
+Temur Charger,2,"Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, target creature gains trample until end of turn.",3,1,['Morph'],ktk,Khans of Tarkir,6
+War-Name Aspirant,2,"Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.
+This creature can't be blocked by creatures with power 1 or less.",2,1,['Raid'],ktk,Khans of Tarkir,6
+Bloodfire Mentor,3,"{2}{U}, {T}: Draw a card, then discard a card.",0,5,[],ktk,Khans of Tarkir,6
+Mardu Blazebringer,3,"When this creature attacks or blocks, sacrifice it at end of combat.",4,4,[],ktk,Khans of Tarkir,9
+Tuskguard Captain,3,"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has trample.",2,3,['Outlast'],ktk,Khans of Tarkir,9
+Watcher of the Roost,3,"Flying
+Morph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, you gain 2 life.",2,1,"['Flying', 'Morph']",ktk,Khans of Tarkir,6
+Grim Haruspex,3,"Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Whenever another nontoken creature you control dies, draw a card.",3,2,['Morph'],ktk,Khans of Tarkir,8
+Alpine Grizzly,3,,4,2,[],ktk,Khans of Tarkir,7
+"Anafenza, the Foremost",3,"Whenever Anafenza attacks, put a +1/+1 counter on another target tapped creature you control.
+If a nontoken creature an opponent owns would die or a creature card not on the battlefield would be put into an opponent's graveyard, exile that card instead.",4,4,[],ktk,Khans of Tarkir,12
+Kheru Bloodsucker,3,"Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.
+{2}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature.",2,2,[],ktk,Khans of Tarkir,9
+Monastery Flock,3,"Defender, flying
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",0,5,"['Flying', 'Morph', 'Defender']",ktk,Khans of Tarkir,6
+Bloodfire Expert,3,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",3,1,['Prowess'],ktk,Khans of Tarkir,5
+Abzan Falconer,3,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has flying.",2,3,['Outlast'],ktk,Khans of Tarkir,9
+Mantis Rider,3,"Flying, vigilance, haste",3,3,"['Flying', 'Vigilance', 'Haste']",ktk,Khans of Tarkir,10
+Savage Knuckleblade,3,"{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+{2}{U}: Return this creature to its owner's hand.
+{R}: This creature gains haste until end of turn.",4,4,[],ktk,Khans of Tarkir,12
+Mardu Hordechief,3,"Raid — When this creature enters, if you attacked this turn, create a 1/1 white Warrior creature token.",2,3,['Raid'],ktk,Khans of Tarkir,8
+Jeskai Windscout,3,"Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",2,1,"['Flying', 'Prowess']",ktk,Khans of Tarkir,5
+Scaldkin,4,"Flying
+{2}{R}, Sacrifice this creature: It deals 2 damage to any target.",2,2,['Flying'],ktk,Khans of Tarkir,7
+Mistfire Weaver,4,"Flying
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, target creature you control gains hexproof until end of turn.",3,1,"['Flying', 'Morph']",ktk,Khans of Tarkir,8
+"Sidisi, Brood Tyrant",4,"Whenever Sidisi enters or attacks, mill three cards.
+Whenever one or more creature cards are put into your graveyard from your library, create a 2/2 black Zombie creature token.",3,3,['Mill'],ktk,Khans of Tarkir,13
+Butcher of the Horde,4,"Flying
+Sacrifice another creature: This creature gains your choice of vigilance, lifelink, or haste until end of turn.",5,4,['Flying'],ktk,Khans of Tarkir,14
+Ashcloud Phoenix,4,"Flying
+When this creature dies, return it to the battlefield face down under your control.
+Morph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, it deals 2 damage to each player.",4,1,"['Flying', 'Morph']",ktk,Khans of Tarkir,11
+Scion of Glaciers,4,{U}: This creature gets +1/-1 until end of turn.,2,5,[],ktk,Khans of Tarkir,8
+Highspire Mantis,4,"Flying, trample",3,3,"['Flying', 'Trample']",ktk,Khans of Tarkir,8
+Sultai Flayer,4,"Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.",3,4,[],ktk,Khans of Tarkir,8
+Salt Road Patrol,4,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)",2,5,['Outlast'],ktk,Khans of Tarkir,9
+Mardu Warshrieker,4,"Raid — When this creature enters, if you attacked this turn, add {R}{W}{B}.",3,3,['Raid'],ktk,Khans of Tarkir,10
+Kheru Spellsnatcher,4,"Morph {4}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.",3,3,['Morph'],ktk,Khans of Tarkir,9
+Clever Impersonator,4,You may have this creature enter as a copy of any nonland permanent on the battlefield.,0,0,[],ktk,Khans of Tarkir,2
+Summit Prowler,4,,4,3,[],ktk,Khans of Tarkir,8
+Sidisi's Pet,4,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Morph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,4,"['Lifelink', 'Morph']",ktk,Khans of Tarkir,7
+Longshot Squad,4,"Outlast {1}{G} ({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)",3,3,['Outlast'],ktk,Khans of Tarkir,10
+Timely Hordemate,4,"Raid — When this creature enters, if you attacked this turn, return target creature card with mana value 2 or less from your graveyard to the battlefield.",3,2,['Raid'],ktk,Khans of Tarkir,7
+Bellowing Saddlebrute,4,"Raid — When this creature enters, you lose 4 life unless you attacked this turn.",4,5,['Raid'],ktk,Khans of Tarkir,11
+Mardu Heart-Piercer,4,"Raid — When this creature enters, if you attacked this turn, this creature deals 2 damage to any target.",2,3,['Raid'],ktk,Khans of Tarkir,7
+High Sentinels of Arashin,4,"Flying
+This creature gets +1/+1 for each other creature you control with a +1/+1 counter on it.
+{3}{W}: Put a +1/+1 counter on target creature.",3,4,['Flying'],ktk,Khans of Tarkir,10
+Unyielding Krumar,4,{1}{W}: This creature gains first strike until end of turn.,3,3,[],ktk,Khans of Tarkir,7
+Abzan Battle Priest,4,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has lifelink.",3,2,['Outlast'],ktk,Khans of Tarkir,9
+Siege Rhino,4,"Trample
+When this creature enters, each opponent loses 3 life and you gain 3 life.",4,5,['Trample'],ktk,Khans of Tarkir,13
+Alabaster Kirin,4,"Flying, vigilance",2,3,"['Flying', 'Vigilance']",ktk,Khans of Tarkir,7
+Mer-Ek Nightblade,4,"Outlast {B} ({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has deathtouch.",2,3,['Outlast'],ktk,Khans of Tarkir,10
+Armament Corps,5,"When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.",4,4,[],ktk,Khans of Tarkir,11
+Sage of the Inward Eye,5,"Flying
+Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.",3,4,['Flying'],ktk,Khans of Tarkir,9
+Sagu Archer,5,"Reach (This creature can block creatures with flying.)
+Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,5,"['Reach', 'Morph']",ktk,Khans of Tarkir,9
+Wingmate Roc,5,"Flying
+Raid — When this creature enters, if you attacked this turn, create a 3/4 white Bird creature token with flying.
+Whenever this creature attacks, you gain 1 life for each attacking creature.",3,4,"['Flying', 'Raid']",ktk,Khans of Tarkir,17
+Rotting Mastodon,5,,2,8,[],ktk,Khans of Tarkir,10
+Warden of the Eye,5,"When this creature enters, return target noncreature, nonland card from your graveyard to your hand.",3,3,[],ktk,Khans of Tarkir,8
+Surrak Dragonclaw,5,"Flash
+This spell can't be countered.
+Creature spells you control can't be countered.
+Other creatures you control have trample.",6,6,['Flash'],ktk,Khans of Tarkir,20
+Zurgo Helmsmasher,5,"Haste
+Zurgo attacks each combat if able.
+During your turn, Zurgo has indestructible.
+Whenever a creature dealt damage by Zurgo this turn dies, put a +1/+1 counter on Zurgo.",7,2,['Haste'],ktk,Khans of Tarkir,17
+Mystic of the Hidden Way,5,"This creature can't be blocked.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,2,['Morph'],ktk,Khans of Tarkir,7
+Whirlwind Adept,5,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",4,2,"['Prowess', 'Hexproof']",ktk,Khans of Tarkir,10
+Krumar Bond-Kin,5,Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),5,3,['Morph'],ktk,Khans of Tarkir,11
+Avalanche Tusker,5,"Whenever this creature attacks, target creature defending player controls blocks it this combat if able.",6,4,[],ktk,Khans of Tarkir,13
+Sage-Eye Harrier,5,"Flying
+Morph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",1,5,"['Flying', 'Morph']",ktk,Khans of Tarkir,8
+Ivorytusk Fortress,5,Untap each creature you control with a +1/+1 counter on it during each other player's untap step.,5,7,[],ktk,Khans of Tarkir,16
+Swarm of Bloodflies,5,"Flying
+This creature enters with two +1/+1 counters on it.
+Whenever another creature dies, put a +1/+1 counter on this creature.",0,0,['Flying'],ktk,Khans of Tarkir,5
+Pine Walker,5,"Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Whenever this creature or another creature you control is turned face up, untap that creature.",5,5,['Morph'],ktk,Khans of Tarkir,15
+Meandering Towershell,5,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever this creature attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.",5,9,"['Landwalk', 'Islandwalk']",ktk,Khans of Tarkir,17
+Bear's Companion,5,"When this creature enters, create a 4/4 green Bear creature token.",2,2,[],ktk,Khans of Tarkir,13
+Mardu Roughrider,5,"Whenever this creature attacks, target creature can't block this turn.",5,4,[],ktk,Khans of Tarkir,12
+Rakshasa Vizier,5,"Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on this creature.",4,4,[],ktk,Khans of Tarkir,11
+Kheru Dreadmaw,5,"Defender
+{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.",4,4,['Defender'],ktk,Khans of Tarkir,9
+Canyon Lurkers,5,Morph {3}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),5,2,['Morph'],ktk,Khans of Tarkir,10
+Dazzling Ramparts,5,"Defender
+{1}{W}, {T}: Tap target creature.",0,7,['Defender'],ktk,Khans of Tarkir,7
+Sultai Soothsayer,5,"When this creature enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.",2,5,[],ktk,Khans of Tarkir,9
+Dragon-Style Twins,5,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",3,3,"['Prowess', 'Double strike']",ktk,Khans of Tarkir,9
+Ankle Shanker,5,"Haste
+Whenever this creature attacks, creatures you control gain first strike and deathtouch until end of turn.",2,2,['Haste'],ktk,Khans of Tarkir,8
+Ponyback Brigade,6,"When this creature enters or is turned face up, create three 1/1 red Goblin creature tokens.
+Morph {2}{R}{W}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",2,2,['Morph'],ktk,Khans of Tarkir,12
+Sultai Scavenger,6,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying",3,3,"['Flying', 'Delve']",ktk,Khans of Tarkir,8
+Ainok Tracker,6,"First strike
+Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,3,"['Morph', 'First strike']",ktk,Khans of Tarkir,8
+Tusked Colossodon,6,,6,5,[],ktk,Khans of Tarkir,13
+Abzan Guide,6,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Morph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,4,"['Lifelink', 'Morph']",ktk,Khans of Tarkir,11
+Snowhorn Rider,6,"Trample
+Morph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",5,5,"['Morph', 'Trample']",ktk,Khans of Tarkir,14
+Kheru Lich Lord,6,"At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.",4,4,[],ktk,Khans of Tarkir,11
+Riverwheel Aerialists,6,"Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",4,5,"['Flying', 'Prowess']",ktk,Khans of Tarkir,12
+Witness of the Ages,6,Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),4,4,['Morph'],ktk,Khans of Tarkir,10
+Sagu Mauler,6,"Trample, hexproof
+Morph {3}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",6,6,"['Morph', 'Hexproof', 'Trample']",ktk,Khans of Tarkir,18
+Thousand Winds,6,"Flying
+Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When this creature is turned face up, return all other tapped creatures to their owners' hands.",5,6,"['Flying', 'Morph']",ktk,Khans of Tarkir,17
+War Behemoth,6,Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),3,6,['Morph'],ktk,Khans of Tarkir,9
+Efreet Weaponmaster,6,"First strike
+When this creature enters or is turned face up, another target creature you control gets +3/+0 until end of turn.
+Morph {2}{U}{R}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,3,"['Morph', 'First strike']",ktk,Khans of Tarkir,11
+"Narset, Enlightened Master",6,"First strike, hexproof
+Whenever Narset attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature spells from among those cards without paying their mana costs.",3,2,"['Hexproof', 'First strike']",ktk,Khans of Tarkir,10
+Glacial Stalker,6,Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),4,5,['Morph'],ktk,Khans of Tarkir,11
+Abomination of Gudul,6,"Flying
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,4,"['Flying', 'Morph']",ktk,Khans of Tarkir,10
+Hooting Mandrills,6,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample",4,4,"['Delve', 'Trample']",ktk,Khans of Tarkir,11
+Pearl Lake Ancient,7,"Flash
+This spell can't be countered.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Return three lands you control to their owner's hand: Return this creature to its owner's hand.",6,7,"['Prowess', 'Flash']",ktk,Khans of Tarkir,19
+Woolly Loxodon,7,Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),6,7,['Morph'],ktk,Khans of Tarkir,16
+Venerable Lammasu,7,Flying,5,4,['Flying'],ktk,Khans of Tarkir,12
+Shambling Attendants,8,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",3,5,"['Delve', 'Deathtouch']",ktk,Khans of Tarkir,11
+Necropolis Fiend,9,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying
+{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",4,5,"['Flying', 'Delve']",ktk,Khans of Tarkir,14

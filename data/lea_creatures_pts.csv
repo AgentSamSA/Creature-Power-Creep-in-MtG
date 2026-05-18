@@ -1,0 +1,131 @@
+﻿name,cmc,oracle_text,power,toughness,keywords,set,set_name,points
+Benalish Hero,1,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",1,1,['Banding'],lea,Limited Edition Alpha,3
+Merfolk of the Pearl Trident,1,,1,1,[],lea,Limited Edition Alpha,2
+Goblin Balloon Brigade,1,{R}: This creature gains flying until end of turn.,1,1,[],lea,Limited Edition Alpha,3
+Birds of Paradise,1,"Flying
+{T}: Add one mana of any color.",0,1,['Flying'],lea,Limited Edition Alpha,4
+Will-o'-the-Wisp,1,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",0,1,['Flying'],lea,Limited Edition Alpha,3
+Wall of Wood,1,Defender (This creature can't attack.),0,3,['Defender'],lea,Limited Edition Alpha,2
+Shanodin Dryads,1,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),1,1,"['Landwalk', 'Forestwalk']",lea,Limited Edition Alpha,3
+Scryb Sprites,1,Flying,1,1,['Flying'],lea,Limited Edition Alpha,3
+Timber Wolves,1,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",1,1,['Banding'],lea,Limited Edition Alpha,3
+Mons's Goblin Raiders,1,,1,1,[],lea,Limited Edition Alpha,2
+Llanowar Elves,1,{T}: Add {G}.,1,1,[],lea,Limited Edition Alpha,3
+Savannah Lions,1,,2,1,[],lea,Limited Edition Alpha,3
+Drudge Skeletons,2,"{B}: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",1,1,[],lea,Limited Edition Alpha,3
+Rock Hydra,2,"This creature enters with X +1/+1 counters on it.
+For each 1 damage that would be dealt to this creature, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.
+{R}: Prevent the next 1 damage that would be dealt to this creature this turn.
+{R}{R}{R}: Put a +1/+1 counter on this creature. Activate only during your upkeep.",0,0,[],lea,Limited Edition Alpha,5
+White Knight,2,"First strike (This creature deals combat damage before creatures without first strike.)
+Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)",2,2,"['First strike', 'Protection']",lea,Limited Edition Alpha,7
+Black Knight,2,"First strike (This creature deals combat damage before creatures without first strike.)
+Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)",2,2,"['First strike', 'Protection']",lea,Limited Edition Alpha,7
+Grizzly Bears,2,,2,2,[],lea,Limited Edition Alpha,4
+Mesa Pegasus,2,"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",1,1,"['Flying', 'Banding']",lea,Limited Edition Alpha,4
+Nether Shadow,2,"Haste
+At the beginning of your upkeep, if this card is in your graveyard with three or more creature cards above it, you may put this card onto the battlefield.",1,1,['Haste'],lea,Limited Edition Alpha,5
+Samite Healer,2,{T}: Prevent the next 1 damage that would be dealt to any target this turn.,1,1,[],lea,Limited Edition Alpha,3
+Lord of Atlantis,2,Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.),2,2,[],lea,Limited Edition Alpha,6
+Ironclaw Orcs,2,This creature can't block creatures with power 2 or greater.,2,2,[],lea,Limited Edition Alpha,4
+Elvish Archers,2,First strike,2,1,['First strike'],lea,Limited Edition Alpha,4
+Zombie Master,3,"Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)
+Other Zombies have ""{B}: Regenerate this permanent.""",2,3,[],lea,Limited Edition Alpha,9
+Pearled Unicorn,3,,2,2,[],lea,Limited Edition Alpha,4
+Gray Ogre,3,,2,2,[],lea,Limited Edition Alpha,4
+Nettling Imp,3,"{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.",1,1,[],lea,Limited Edition Alpha,4
+Hurloon Minotaur,3,,2,3,[],lea,Limited Edition Alpha,5
+Sedge Troll,3,"This creature gets +1/+1 as long as you control a Swamp.
+{B}: Regenerate this creature.",2,2,[],lea,Limited Edition Alpha,6
+Verduran Enchantress,3,"Whenever you cast an enchantment spell, you may draw a card.",0,2,[],lea,Limited Edition Alpha,4
+Orcish Artillery,3,{T}: This creature deals 2 damage to any target and 3 damage to you.,1,3,[],lea,Limited Edition Alpha,6
+Wall of Bone,3,"Defender (This creature can't attack.)
+{B}: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",1,4,['Defender'],lea,Limited Edition Alpha,5
+Wall of Brambles,3,"Defender (This creature can't attack.)
+{G}: Regenerate this creature.",2,3,['Defender'],lea,Limited Edition Alpha,5
+Plague Rats,3,Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.,*,*,[],lea,Limited Edition Alpha,6
+Hypnotic Specter,3,"Flying
+Whenever this creature deals damage to an opponent, that player discards a card at random.",2,2,['Flying'],lea,Limited Edition Alpha,7
+Prodigal Sorcerer,3,{T}: This creature deals 1 damage to any target.,1,1,[],lea,Limited Edition Alpha,4
+Wall of Fire,3,"Defender (This creature can't attack.)
+{R}: This creature gets +1/+0 until end of turn.",0,5,['Defender'],lea,Limited Edition Alpha,5
+Scathe Zombies,3,,2,2,[],lea,Limited Edition Alpha,4
+Ley Druid,3,{T}: Untap target land.,1,1,[],lea,Limited Edition Alpha,3
+Granite Gargoyle,3,"Flying
+{R}: This creature gets +0/+1 until end of turn.",2,2,['Flying'],lea,Limited Edition Alpha,6
+Wall of Air,3,"Defender, flying (This creature can't attack, and it can block creatures with flying.)",1,5,"['Flying', 'Defender']",lea,Limited Edition Alpha,6
+Wall of Water,3,"Defender (This creature can't attack.)
+{U}: This creature gets +1/+0 until end of turn.",0,5,['Defender'],lea,Limited Edition Alpha,5
+Goblin King,3,Other Goblins get +1/+1 and have mountainwalk.,2,2,[],lea,Limited Edition Alpha,6
+Royal Assassin,3,{T}: Destroy target tapped creature.,1,1,[],lea,Limited Edition Alpha,4
+Dwarven Warriors,3,{T}: Target creature with power 2 or less can't be blocked this turn.,1,1,[],lea,Limited Edition Alpha,3
+Uthden Troll,3,{R}: Regenerate this creature.,2,2,[],lea,Limited Edition Alpha,5
+Wall of Stone,3,Defender (This creature can't attack.),0,8,['Defender'],lea,Limited Edition Alpha,7
+Dwarven Demolition Team,3,{T}: Destroy target Wall.,1,1,[],lea,Limited Edition Alpha,4
+Frozen Shade,3,{B}: This creature gets +1/+1 until end of turn.,0,1,[],lea,Limited Edition Alpha,2
+Wall of Ice,3,Defender (This creature can't attack.),0,7,['Defender'],lea,Limited Edition Alpha,6
+War Mammoth,4,Trample,3,3,['Trample'],lea,Limited Edition Alpha,7
+Dragon Whelp,4,"Flying
+{R}: This creature gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice this creature at the beginning of the next end step.",2,3,['Flying'],lea,Limited Edition Alpha,7
+Giant Spider,4,Reach (This creature can block creatures with flying.),2,4,['Reach'],lea,Limited Edition Alpha,7
+Roc of Kher Ridges,4,Flying,3,3,['Flying'],lea,Limited Edition Alpha,7
+Keldon Warlord,4,Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.,*,*,[],lea,Limited Edition Alpha,8
+Wall of Swords,4,"Defender (This creature can't attack.)
+Flying",3,5,"['Flying', 'Defender']",lea,Limited Edition Alpha,8
+Scavenging Ghoul,4,"At the beginning of each end step, put a corpse counter on this creature for each creature that died this turn.
+Remove a corpse counter from this creature: Regenerate this creature.",2,2,[],lea,Limited Edition Alpha,7
+Phantasmal Forces,4,"Flying
+At the beginning of your upkeep, sacrifice this creature unless you pay {U}.",4,1,['Flying'],lea,Limited Edition Alpha,7
+Hill Giant,4,,3,3,[],lea,Limited Edition Alpha,6
+Bog Wraith,4,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),3,3,"['Landwalk', 'Swampwalk']",lea,Limited Edition Alpha,7
+Northern Paladin,4,"{W}{W}, {T}: Destroy target black permanent.",3,3,[],lea,Limited Edition Alpha,8
+Living Wall,4,"Defender (This creature can't attack.)
+{1}: Regenerate this creature.",0,6,['Defender'],lea,Limited Edition Alpha,6
+Fungusaur,4,"Whenever this creature is dealt damage, put a +1/+1 counter on it.",2,2,[],lea,Limited Edition Alpha,6
+Stone Giant,4,{T}: Target creature you control with toughness less than this creature's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.,3,4,[],lea,Limited Edition Alpha,8
+Clone,4,You may have this creature enter as a copy of any creature on the battlefield.,0,0,[],lea,Limited Edition Alpha,2
+Phantom Monster,4,Flying,3,3,['Flying'],lea,Limited Edition Alpha,7
+Juggernaut,4,"This creature attacks each combat if able.
+This creature can't be blocked by Walls.",5,3,[],lea,Limited Edition Alpha,11
+Thicket Basilisk,5,"Whenever this creature blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",2,4,[],lea,Limited Edition Alpha,8
+Pirate Ship,5,"This creature can't attack unless defending player controls an Island.
+{T}: This creature deals 1 damage to any target.
+When you control no Islands, sacrifice this creature.",4,3,[],lea,Limited Edition Alpha,10
+Veteran Bodyguard,5,"As long as this creature is untapped, all damage that would be dealt to you by unblocked creatures is dealt to this creature instead.",2,5,[],lea,Limited Edition Alpha,8
+Serra Angel,5,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",4,4,"['Flying', 'Vigilance']",lea,Limited Edition Alpha,11
+Fire Elemental,5,,5,4,[],lea,Limited Edition Alpha,11
+Two-Headed Giant of Foriys,5,"Trample
+This creature can block an additional creature each combat.",4,4,['Trample'],lea,Limited Edition Alpha,11
+Sengir Vampire,5,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",4,4,['Flying'],lea,Limited Edition Alpha,12
+Air Elemental,5,Flying,4,4,['Flying'],lea,Limited Edition Alpha,10
+Ironroot Treefolk,5,,3,5,[],lea,Limited Edition Alpha,8
+Cockatrice,5,"Flying
+Whenever this creature blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",2,4,['Flying'],lea,Limited Edition Alpha,9
+Vesuvan Doppelganger,5,"You may have this creature enter as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has ""At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability.""",0,0,[],lea,Limited Edition Alpha,2
+Water Elemental,5,,5,4,[],lea,Limited Edition Alpha,11
+Earth Elemental,5,,4,5,[],lea,Limited Edition Alpha,10
+Gaea's Liege,6,"As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
+{T}: Target land becomes a Forest until this creature leaves the battlefield.",*,*,[],lea,Limited Edition Alpha,13
+Craw Wurm,6,,6,4,[],lea,Limited Edition Alpha,11
+Demonic Hordes,6,"{T}: Destroy target land.
+At the beginning of your upkeep, unless you pay {B}{B}{B}, tap this creature and sacrifice a land of an opponent's choice.",5,5,[],lea,Limited Edition Alpha,13
+Nightmare,6,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Nightmare's power and toughness are each equal to the number of Swamps you control.",*,*,['Flying'],lea,Limited Edition Alpha,13
+Clockwork Beast,6,"This creature enters with seven +1/+0 counters on it.
+At end of combat, if this creature attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on this creature. This ability can't cause the total number of +1/+0 counters on this creature to be greater than seven. Activate only during your upkeep.",0,4,[],lea,Limited Edition Alpha,6
+Mahamoti Djinn,6,Flying (This creature can't be blocked except by creatures with flying or reach.),5,6,['Flying'],lea,Limited Edition Alpha,14
+Obsianus Golem,6,,4,6,[],lea,Limited Edition Alpha,11
+Force of Nature,6,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+At the beginning of your upkeep, this creature deals 8 damage to you unless you pay {G}{G}{G}{G}.",8,8,['Trample'],lea,Limited Edition Alpha,20
+Personal Incarnation,6,"{0}: The next 1 damage that would be dealt to this creature this turn is dealt to its owner instead. Only this creatures owner may activate this ability.
+When this creature dies, its owner loses half their life, rounded up.",6,6,[],lea,Limited Edition Alpha,15
+Sea Serpent,6,"This creature can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice this creature.",5,5,[],lea,Limited Edition Alpha,12
+Shivan Dragon,6,"Flying
+{R}: This creature gets +1/+0 until end of turn.",5,5,['Flying'],lea,Limited Edition Alpha,14
+Lord of the Pit,7,"Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than this creature. If you can't, this creature deals 7 damage to you.",7,7,"['Flying', 'Trample']",lea,Limited Edition Alpha,19
